@@ -1,0 +1,7406 @@
+{
+  "AD": [
+    {
+      "city": "Andorra la Vella",
+      "latitude": 42.5,
+      "longitude": 1.516667,
+      "region": ""
+    },
+    {
+      "city": "les Escaldes",
+      "region": "Escaldes-Engordany",
+      "latitude": 42.50729,
+      "longitude": 1.53414
+    }
+  ],
+  "AE": [
+    {
+      "city": "Abu Dhabi",
+      "latitude": 24.466666666666665,
+      "longitude": 54.366667,
+      "region": "Abu Dhabi"
+    },
+    {
+      "city": "Dubai",
+      "region": "Dubai",
+      "latitude": 25.07725,
+      "longitude": 55.30927
+    },
+    {
+      "city": "Sharjah",
+      "region": "Sharjah",
+      "latitude": 25.3342,
+      "longitude": 55.41221
+    },
+    {
+      "city": "Al Ain City",
+      "region": "Abu Dhabi",
+      "latitude": 24.19167,
+      "longitude": 55.76056
+    },
+    {
+      "city": "Ajman",
+      "region": "Ajman",
+      "latitude": 25.40177,
+      "longitude": 55.47878
+    },
+    {
+      "city": "Dayrah",
+      "region": "Dubai",
+      "latitude": 25.27143,
+      "longitude": 55.30207
+    }
+  ],
+  "AF": [
+    {
+      "city": "Kabul",
+      "latitude": 34.516666666666666,
+      "longitude": 69.183333,
+      "region": ""
+    },
+    {
+      "city": "Herāt",
+      "region": "Herat",
+      "latitude": 34.34817,
+      "longitude": 62.19967
+    },
+    {
+      "city": "Mazār-e Sharīf",
+      "region": "Balkh",
+      "latitude": 36.70904,
+      "longitude": 67.11087
+    },
+    {
+      "city": "Kandahār",
+      "region": "Kandahar",
+      "latitude": 31.61332,
+      "longitude": 65.71013
+    },
+    {
+      "city": "Jalālābād",
+      "region": "Nangarhar",
+      "latitude": 34.42647,
+      "longitude": 70.45153
+    },
+    {
+      "city": "Kunduz",
+      "region": "Kunduz",
+      "latitude": 36.72895,
+      "longitude": 68.857
+    }
+  ],
+  "AG": [
+    {
+      "city": "Saint John's",
+      "latitude": 17.116666666666667,
+      "longitude": -61.85,
+      "region": ""
+    },
+    {
+      "city": "Saint John’s",
+      "region": "Saint John Parish",
+      "latitude": 17.12096,
+      "longitude": -61.84329
+    }
+  ],
+  "AI": [
+    {
+      "city": "The Valley",
+      "latitude": 18.216666666666665,
+      "longitude": -63.05,
+      "region": ""
+    }
+  ],
+  "AL": [
+    {
+      "city": "Tirana",
+      "latitude": 41.31666666666667,
+      "longitude": 19.816667,
+      "region": ""
+    },
+    {
+      "city": "Durrës",
+      "region": "Durrës County",
+      "latitude": 41.32355,
+      "longitude": 19.45469
+    },
+    {
+      "city": "Vlorë",
+      "region": "Vlorë County",
+      "latitude": 40.4696,
+      "longitude": 19.48379
+    },
+    {
+      "city": "Elbasan",
+      "region": "Elbasan County",
+      "latitude": 41.11138,
+      "longitude": 20.08224
+    },
+    {
+      "city": "Shkodër",
+      "region": "Shkodër County",
+      "latitude": 42.06828,
+      "longitude": 19.51258
+    },
+    {
+      "city": "Lushnjë",
+      "region": "Fier County",
+      "latitude": 40.94194,
+      "longitude": 19.705
+    }
+  ],
+  "AM": [
+    {
+      "city": "Yerevan",
+      "latitude": 40.166666666666664,
+      "longitude": 44.5,
+      "region": ""
+    },
+    {
+      "city": "Malatia-Sebastia",
+      "region": "Yerevan",
+      "latitude": 40.17396,
+      "longitude": 44.4457
+    },
+    {
+      "city": "Shengavit",
+      "region": "Yerevan",
+      "latitude": 40.1557,
+      "longitude": 44.4779
+    },
+    {
+      "city": "Nor Nork",
+      "region": "Yerevan",
+      "latitude": 40.19661,
+      "longitude": 44.5669
+    },
+    {
+      "city": "Kentron",
+      "region": "Yerevan",
+      "latitude": 40.17806,
+      "longitude": 44.51303
+    },
+    {
+      "city": "Erebuni",
+      "region": "Yerevan",
+      "latitude": 40.13309,
+      "longitude": 44.53009
+    }
+  ],
+  "AO": [
+    {
+      "city": "Luanda",
+      "latitude": -8.833333333333334,
+      "longitude": 13.216667,
+      "region": ""
+    },
+    {
+      "city": "Mulenvos",
+      "region": "Luanda",
+      "latitude": -8.86695,
+      "longitude": 13.3344
+    },
+    {
+      "city": "Viana",
+      "region": "Luanda",
+      "latitude": -8.90553,
+      "longitude": 13.37499
+    },
+    {
+      "city": "Kikolo",
+      "region": "Luanda",
+      "latitude": -8.7815,
+      "longitude": 13.33384
+    },
+    {
+      "city": "Maianga",
+      "region": "Luanda",
+      "latitude": -8.84693,
+      "longitude": 13.23698
+    },
+    {
+      "city": "Camama",
+      "region": "Luanda",
+      "latitude": -8.93611,
+      "longitude": 13.26518
+    }
+  ],
+  "AR": [
+    {
+      "city": "Buenos Aires",
+      "latitude": -34.583333333333336,
+      "longitude": -58.666667,
+      "region": "Buenos Aires"
+    },
+    {
+      "city": "Córdoba",
+      "region": "Cordoba",
+      "latitude": -31.40648,
+      "longitude": -64.18853
+    },
+    {
+      "city": "Rosario",
+      "region": "Santa Fe",
+      "latitude": -32.94682,
+      "longitude": -60.63932
+    },
+    {
+      "city": "Mar del Plata",
+      "region": "Buenos Aires",
+      "latitude": -38.00042,
+      "longitude": -57.5562
+    },
+    {
+      "city": "San Miguel de Tucumán",
+      "region": "Tucuman",
+      "latitude": -26.81601,
+      "longitude": -65.21051
+    },
+    {
+      "city": "Salta",
+      "region": "Salta",
+      "latitude": -24.80645,
+      "longitude": -65.41999
+    }
+  ],
+  "AS": [
+    {
+      "city": "Pago Pago",
+      "latitude": -14.266666666666667,
+      "longitude": -170.7,
+      "region": ""
+    }
+  ],
+  "AT": [
+    {
+      "city": "Vienna",
+      "latitude": 48.2,
+      "longitude": 16.366667,
+      "region": ""
+    },
+    {
+      "city": "Graz",
+      "region": "Styria",
+      "latitude": 47.06733,
+      "longitude": 15.44197
+    },
+    {
+      "city": "Linz",
+      "region": "Upper Austria",
+      "latitude": 48.30639,
+      "longitude": 14.28611
+    },
+    {
+      "city": "Favoriten",
+      "region": "Vienna",
+      "latitude": 48.16116,
+      "longitude": 16.38233
+    },
+    {
+      "city": "Donaustadt",
+      "region": "Vienna",
+      "latitude": 48.2333,
+      "longitude": 16.46002
+    },
+    {
+      "city": "Floridsdorf",
+      "region": "Vienna",
+      "latitude": 48.25,
+      "longitude": 16.4
+    }
+  ],
+  "AU": [
+    {
+      "city": "Canberra",
+      "latitude": -35.266666666666666,
+      "longitude": 149.133333,
+      "region": "Australian Capital Territory"
+    },
+    {
+      "city": "Sydney",
+      "region": "New South Wales",
+      "latitude": -33.86785,
+      "longitude": 151.20732
+    },
+    {
+      "city": "Melbourne",
+      "region": "Victoria",
+      "latitude": -37.814,
+      "longitude": 144.96332
+    },
+    {
+      "city": "Brisbane",
+      "region": "Queensland",
+      "latitude": -27.46794,
+      "longitude": 153.02809
+    },
+    {
+      "city": "Perth",
+      "region": "Western Australia",
+      "latitude": -31.95224,
+      "longitude": 115.8614
+    },
+    {
+      "city": "Adelaide",
+      "region": "South Australia",
+      "latitude": -34.92866,
+      "longitude": 138.59863
+    }
+  ],
+  "AW": [
+    {
+      "city": "Oranjestad",
+      "latitude": 12.516666666666667,
+      "longitude": -70.033333,
+      "region": ""
+    },
+    {
+      "city": "Noord",
+      "region": "",
+      "latitude": 12.56596,
+      "longitude": -70.03198
+    },
+    {
+      "city": "Tanki Leendert",
+      "region": "",
+      "latitude": 12.53914,
+      "longitude": -70.02004
+    },
+    {
+      "city": "Santa Cruz",
+      "region": "",
+      "latitude": 12.50953,
+      "longitude": -69.98094
+    }
+  ],
+  "AX": [
+    {
+      "city": "Mariehamn",
+      "latitude": 60.116667,
+      "longitude": 19.9,
+      "region": ""
+    }
+  ],
+  "AZ": [
+    {
+      "city": "Baku",
+      "latitude": 40.38333333333333,
+      "longitude": 49.866667,
+      "region": ""
+    },
+    {
+      "city": "Sumgayit",
+      "region": "Sumqayit",
+      "latitude": 40.58972,
+      "longitude": 49.66861
+    },
+    {
+      "city": "Ganja",
+      "region": "Gǝncǝ",
+      "latitude": 40.68157,
+      "longitude": 46.36134
+    },
+    {
+      "city": "Khirdalan",
+      "region": "Abşeron",
+      "latitude": 40.44808,
+      "longitude": 49.75502
+    },
+    {
+      "city": "Yevlakh",
+      "region": "Yevlax City",
+      "latitude": 40.61832,
+      "longitude": 47.15014
+    },
+    {
+      "city": "Mingachevir",
+      "region": "Mingacevir City",
+      "latitude": 40.76422,
+      "longitude": 47.06227
+    }
+  ],
+  "BA": [
+    {
+      "city": "Sarajevo",
+      "latitude": 43.86666666666667,
+      "longitude": 18.416667,
+      "region": ""
+    },
+    {
+      "city": "Banja Luka",
+      "region": "Srpska",
+      "latitude": 44.77879,
+      "longitude": 17.20629
+    },
+    {
+      "city": "Zenica",
+      "region": "Federation of B&H",
+      "latitude": 44.20169,
+      "longitude": 17.90397
+    },
+    {
+      "city": "Tuzla",
+      "region": "Federation of B&H",
+      "latitude": 44.53842,
+      "longitude": 18.66709
+    },
+    {
+      "city": "Mostar",
+      "region": "Federation of B&H",
+      "latitude": 43.34333,
+      "longitude": 17.80806
+    },
+    {
+      "city": "Bihać",
+      "region": "Federation of B&H",
+      "latitude": 44.81694,
+      "longitude": 15.87083
+    }
+  ],
+  "BB": [
+    {
+      "city": "Bridgetown",
+      "latitude": 13.1,
+      "longitude": -59.616667,
+      "region": ""
+    }
+  ],
+  "BD": [
+    {
+      "city": "Dhaka",
+      "latitude": 23.716666666666665,
+      "longitude": 90.4,
+      "region": ""
+    },
+    {
+      "city": "Chattogram",
+      "region": "Chittagong",
+      "latitude": 22.3384,
+      "longitude": 91.83168
+    },
+    {
+      "city": "Gazipur",
+      "region": "Dhaka Division",
+      "latitude": 23.99844,
+      "longitude": 90.42234
+    },
+    {
+      "city": "Khulna",
+      "region": "Khulna Division",
+      "latitude": 22.80979,
+      "longitude": 89.56439
+    },
+    {
+      "city": "Rangpur",
+      "region": "Rangpur Division",
+      "latitude": 25.74664,
+      "longitude": 89.25166
+    },
+    {
+      "city": "Rajshahi",
+      "region": "Rajshahi Division",
+      "latitude": 24.374,
+      "longitude": 88.60114
+    }
+  ],
+  "BE": [
+    {
+      "city": "Brussels",
+      "latitude": 50.833333333333336,
+      "longitude": 4.333333,
+      "region": ""
+    },
+    {
+      "city": "Antwerp",
+      "region": "Flanders",
+      "latitude": 51.22047,
+      "longitude": 4.40026
+    },
+    {
+      "city": "Gent",
+      "region": "Flanders",
+      "latitude": 51.05,
+      "longitude": 3.71667
+    },
+    {
+      "city": "Charleroi",
+      "region": "Wallonia",
+      "latitude": 50.41136,
+      "longitude": 4.44448
+    },
+    {
+      "city": "Liège",
+      "region": "Wallonia",
+      "latitude": 50.63373,
+      "longitude": 5.56749
+    },
+    {
+      "city": "Anderlecht",
+      "region": "Brussels Capital",
+      "latitude": 50.83619,
+      "longitude": 4.31454
+    }
+  ],
+  "BF": [
+    {
+      "city": "Ouagadougou",
+      "latitude": 12.366666666666667,
+      "longitude": -1.516667,
+      "region": ""
+    },
+    {
+      "city": "Bobo-Dioulasso",
+      "region": "Hauts-Bassins",
+      "latitude": 11.18064,
+      "longitude": -4.29489
+    },
+    {
+      "city": "Koudougou",
+      "region": "Centre-Ouest",
+      "latitude": 12.25188,
+      "longitude": -2.36694
+    },
+    {
+      "city": "Saaba",
+      "region": "Centre",
+      "latitude": 12.37136,
+      "longitude": -1.41468
+    },
+    {
+      "city": "Ouahigouya",
+      "region": "Nord",
+      "latitude": 13.5769,
+      "longitude": -2.41786
+    },
+    {
+      "city": "Kaya",
+      "region": "Centre-Nord",
+      "latitude": 13.0883,
+      "longitude": -1.08368
+    }
+  ],
+  "BG": [
+    {
+      "city": "Sofia",
+      "latitude": 42.68333333333333,
+      "longitude": 23.316667,
+      "region": ""
+    },
+    {
+      "city": "Plovdiv",
+      "region": "Plovdiv",
+      "latitude": 42.15387,
+      "longitude": 24.75001
+    },
+    {
+      "city": "Varna",
+      "region": "Varna",
+      "latitude": 43.21912,
+      "longitude": 27.91024
+    },
+    {
+      "city": "Burgas",
+      "region": "Burgas",
+      "latitude": 42.50651,
+      "longitude": 27.46886
+    },
+    {
+      "city": "Stara Zagora",
+      "region": "Stara Zagora",
+      "latitude": 42.43205,
+      "longitude": 25.64262
+    },
+    {
+      "city": "Ruse",
+      "region": "Ruse",
+      "latitude": 43.84872,
+      "longitude": 25.9534
+    }
+  ],
+  "BH": [
+    {
+      "city": "Manama",
+      "latitude": 26.233333333333334,
+      "longitude": 50.566667,
+      "region": ""
+    },
+    {
+      "city": "Al Muharraq",
+      "region": "Muharraq",
+      "latitude": 26.25722,
+      "longitude": 50.61194
+    },
+    {
+      "city": "Madīnat Ḩamad",
+      "region": "Northern",
+      "latitude": 26.11528,
+      "longitude": 50.50694
+    },
+    {
+      "city": "Ar Rifā‘",
+      "region": "Southern Governorate",
+      "latitude": 26.13,
+      "longitude": 50.555
+    },
+    {
+      "city": "Sitrah",
+      "region": "Manama",
+      "latitude": 26.15472,
+      "longitude": 50.62056
+    },
+    {
+      "city": "Jidd Ḩafş",
+      "region": "Manama",
+      "latitude": 26.21861,
+      "longitude": 50.54778
+    }
+  ],
+  "BI": [
+    {
+      "city": "Bujumbura",
+      "latitude": -3.3666666666666667,
+      "longitude": 29.35,
+      "region": ""
+    },
+    {
+      "city": "Gitega",
+      "region": "Gitega",
+      "latitude": -3.42708,
+      "longitude": 29.92463
+    },
+    {
+      "city": "Ngozi",
+      "region": "Ngozi",
+      "latitude": -2.9075,
+      "longitude": 29.8306
+    },
+    {
+      "city": "Mpanda",
+      "region": "Bubanza",
+      "latitude": -3.1703,
+      "longitude": 29.4026
+    },
+    {
+      "city": "Rumonge",
+      "region": "Rumonge",
+      "latitude": -3.9736,
+      "longitude": 29.4386
+    },
+    {
+      "city": "Cibitoke",
+      "region": "Cibitoke",
+      "latitude": -2.8869,
+      "longitude": 29.1248
+    }
+  ],
+  "BJ": [
+    {
+      "city": "Porto-Novo",
+      "latitude": 6.483333333333333,
+      "longitude": 2.616667,
+      "region": ""
+    },
+    {
+      "city": "Cotonou",
+      "region": "Littoral",
+      "latitude": 6.36536,
+      "longitude": 2.41833
+    },
+    {
+      "city": "Abomey-Calavi",
+      "region": "Atlantique",
+      "latitude": 6.44852,
+      "longitude": 2.35566
+    },
+    {
+      "city": "Parakou",
+      "region": "Borgou",
+      "latitude": 9.33716,
+      "longitude": 2.63031
+    },
+    {
+      "city": "Godomè",
+      "region": "Atlantique",
+      "latitude": 6.38948,
+      "longitude": 2.34581
+    },
+    {
+      "city": "Abomey",
+      "region": "Zou",
+      "latitude": 7.18286,
+      "longitude": 1.99119
+    }
+  ],
+  "BL": [
+    {
+      "city": "Gustavia",
+      "latitude": 17.883333333333333,
+      "longitude": -62.85,
+      "region": ""
+    }
+  ],
+  "BM": [
+    {
+      "city": "Hamilton",
+      "latitude": 32.28333333333333,
+      "longitude": -64.783333,
+      "region": ""
+    }
+  ],
+  "BN": [
+    {
+      "city": "Bandar Seri Begawan",
+      "latitude": 4.883333333333333,
+      "longitude": 114.933333,
+      "region": ""
+    },
+    {
+      "city": "Sengkurong",
+      "region": "Brunei-Muara District",
+      "latitude": 4.88333,
+      "longitude": 114.83333
+    },
+    {
+      "city": "Mentiri",
+      "region": "Brunei-Muara District",
+      "latitude": 4.97058,
+      "longitude": 115.02078
+    },
+    {
+      "city": "Kuala Belait",
+      "region": "Belait",
+      "latitude": 4.58361,
+      "longitude": 114.2312
+    },
+    {
+      "city": "Tutong",
+      "region": "Tutong",
+      "latitude": 4.80278,
+      "longitude": 114.64917
+    },
+    {
+      "city": "Serasa",
+      "region": "Brunei-Muara District",
+      "latitude": 5.01761,
+      "longitude": 115.05798
+    }
+  ],
+  "BO": [
+    {
+      "city": "La Paz",
+      "latitude": -16.5,
+      "longitude": -68.15,
+      "region": ""
+    },
+    {
+      "city": "Santa Cruz de la Sierra",
+      "region": "Santa Cruz Department",
+      "latitude": -17.78629,
+      "longitude": -63.18117
+    },
+    {
+      "city": "Cochabamba",
+      "region": "Cochabamba",
+      "latitude": -17.38195,
+      "longitude": -66.15995
+    },
+    {
+      "city": "Sucre",
+      "region": "Chuquisaca Department",
+      "latitude": -19.03332,
+      "longitude": -65.26274
+    },
+    {
+      "city": "Oruro",
+      "region": "Oruro",
+      "latitude": -17.97153,
+      "longitude": -67.0932
+    },
+    {
+      "city": "Sacaba",
+      "region": "Cochabamba",
+      "latitude": -17.39799,
+      "longitude": -66.03825
+    }
+  ],
+  "BQ": [
+    {
+      "city": "Kralendijk",
+      "latitude": 12.18,
+      "longitude": -68.25,
+      "region": ""
+    }
+  ],
+  "BR": [
+    {
+      "city": "Brasilia",
+      "latitude": -15.783333333333333,
+      "longitude": -47.916667,
+      "region": "Federal District"
+    },
+    {
+      "city": "São Paulo",
+      "region": "São Paulo",
+      "latitude": -23.5475,
+      "longitude": -46.63611
+    },
+    {
+      "city": "Rio de Janeiro",
+      "region": "Rio de Janeiro",
+      "latitude": -22.90642,
+      "longitude": -43.18223
+    },
+    {
+      "city": "Belo Horizonte",
+      "region": "Minas Gerais",
+      "latitude": -19.92083,
+      "longitude": -43.93778
+    },
+    {
+      "city": "Salvador",
+      "region": "Bahia",
+      "latitude": -12.97563,
+      "longitude": -38.49096
+    },
+    {
+      "city": "Fortaleza",
+      "region": "Ceará",
+      "latitude": -3.71722,
+      "longitude": -38.54306
+    }
+  ],
+  "BS": [
+    {
+      "city": "Nassau",
+      "latitude": 25.083333333333332,
+      "longitude": -77.35,
+      "region": ""
+    },
+    {
+      "city": "Lucaya",
+      "region": "Freeport",
+      "latitude": 26.53333,
+      "longitude": -78.66667
+    },
+    {
+      "city": "Freeport",
+      "region": "Freeport",
+      "latitude": 26.53333,
+      "longitude": -78.7
+    },
+    {
+      "city": "Killarney",
+      "region": "New Providence",
+      "latitude": 25.05,
+      "longitude": -77.41667
+    }
+  ],
+  "BT": [
+    {
+      "city": "Thimphu",
+      "latitude": 27.466666666666665,
+      "longitude": 89.633333,
+      "region": ""
+    },
+    {
+      "city": "Phuntsholing",
+      "region": "Chukha",
+      "latitude": 26.85164,
+      "longitude": 89.38837
+    },
+    {
+      "city": "Tsirang",
+      "region": "Tsirang District",
+      "latitude": 27.0219,
+      "longitude": 90.12291
+    },
+    {
+      "city": "Punākha",
+      "region": "Punakha",
+      "latitude": 27.59137,
+      "longitude": 89.87743
+    }
+  ],
+  "BW": [
+    {
+      "city": "Gaborone",
+      "latitude": -24.633333333333333,
+      "longitude": 25.9,
+      "region": ""
+    },
+    {
+      "city": "Francistown",
+      "region": "City of Francistown",
+      "latitude": -21.17,
+      "longitude": 27.50778
+    },
+    {
+      "city": "Mogoditshane",
+      "region": "Kweneng",
+      "latitude": -24.62694,
+      "longitude": 25.86556
+    },
+    {
+      "city": "Maun",
+      "region": "North-West",
+      "latitude": -19.98333,
+      "longitude": 23.41667
+    },
+    {
+      "city": "Molepolole",
+      "region": "Kweneng",
+      "latitude": -24.40659,
+      "longitude": 25.49508
+    },
+    {
+      "city": "Serowe",
+      "region": "Central",
+      "latitude": -22.38754,
+      "longitude": 26.71077
+    }
+  ],
+  "BY": [
+    {
+      "city": "Minsk",
+      "latitude": 53.9,
+      "longitude": 27.566667,
+      "region": ""
+    },
+    {
+      "city": "Homyel'",
+      "region": "Homyel’ Voblasc’",
+      "latitude": 52.4345,
+      "longitude": 30.9754
+    },
+    {
+      "city": "Hrodna",
+      "region": "Grodnenskaya",
+      "latitude": 53.6758,
+      "longitude": 23.82887
+    },
+    {
+      "city": "Vitebsk",
+      "region": "Vitebsk",
+      "latitude": 55.1904,
+      "longitude": 30.2049
+    },
+    {
+      "city": "Mahilyow",
+      "region": "Mogilev",
+      "latitude": 53.90876,
+      "longitude": 30.34044
+    },
+    {
+      "city": "Brest",
+      "region": "Brest",
+      "latitude": 52.10894,
+      "longitude": 23.71749
+    }
+  ],
+  "BZ": [
+    {
+      "city": "Belmopan",
+      "latitude": 17.25,
+      "longitude": -88.766667,
+      "region": ""
+    },
+    {
+      "city": "Belize City",
+      "region": "Belize District",
+      "latitude": 17.49952,
+      "longitude": -88.19756
+    },
+    {
+      "city": "San Ignacio",
+      "region": "Cayo District",
+      "latitude": 17.1588,
+      "longitude": -89.0696
+    },
+    {
+      "city": "San Pedro",
+      "region": "Belize District",
+      "latitude": 17.91598,
+      "longitude": -87.9659
+    },
+    {
+      "city": "Orange Walk",
+      "region": "Orange Walk District",
+      "latitude": 18.08124,
+      "longitude": -88.56328
+    }
+  ],
+  "CA": [
+    {
+      "city": "Ottawa",
+      "latitude": 45.416666666666664,
+      "longitude": -75.7,
+      "region": "Ontario"
+    },
+    {
+      "city": "Toronto",
+      "region": "Ontario",
+      "latitude": 43.70643,
+      "longitude": -79.39864
+    },
+    {
+      "city": "Montréal",
+      "region": "Quebec",
+      "latitude": 45.50884,
+      "longitude": -73.58781
+    },
+    {
+      "city": "Calgary",
+      "region": "Alberta",
+      "latitude": 51.05011,
+      "longitude": -114.08529
+    },
+    {
+      "city": "Edmonton",
+      "region": "Alberta",
+      "latitude": 53.55014,
+      "longitude": -113.46871
+    },
+    {
+      "city": "Winnipeg",
+      "region": "Manitoba",
+      "latitude": 49.8844,
+      "longitude": -97.14704
+    }
+  ],
+  "CC": [
+    {
+      "city": "West Island",
+      "latitude": -12.166666666666666,
+      "longitude": 96.833333,
+      "region": ""
+    }
+  ],
+  "CD": [
+    {
+      "city": "Kinshasa",
+      "latitude": -4.316666666666666,
+      "longitude": 15.3,
+      "region": ""
+    },
+    {
+      "city": "Lubumbashi",
+      "region": "Haut-Katanga",
+      "latitude": -11.66089,
+      "longitude": 27.47938
+    },
+    {
+      "city": "Mbuji-Mayi",
+      "region": "East Kasai",
+      "latitude": -6.13603,
+      "longitude": 23.58979
+    },
+    {
+      "city": "Kisangani",
+      "region": "Tshopo",
+      "latitude": 0.51528,
+      "longitude": 25.19099
+    },
+    {
+      "city": "Kananga",
+      "region": "Kasai-Central",
+      "latitude": -5.89624,
+      "longitude": 22.41659
+    },
+    {
+      "city": "Bukavu",
+      "region": "South Kivu",
+      "latitude": -2.49077,
+      "longitude": 28.84281
+    }
+  ],
+  "CF": [
+    {
+      "city": "Bangui",
+      "latitude": 4.366666666666666,
+      "longitude": 18.583333,
+      "region": ""
+    },
+    {
+      "city": "Bimbo",
+      "region": "Ombella-M'Poko",
+      "latitude": 4.25671,
+      "longitude": 18.41583
+    },
+    {
+      "city": "Bégoua",
+      "region": "Ombella-M'Poko",
+      "latitude": 4.45437,
+      "longitude": 18.53475
+    },
+    {
+      "city": "Carnot",
+      "region": "Mambéré",
+      "latitude": 4.94273,
+      "longitude": 15.87735
+    },
+    {
+      "city": "Berbérati",
+      "region": "Mambéré-Kadéï",
+      "latitude": 4.26116,
+      "longitude": 15.79216
+    },
+    {
+      "city": "Bambari",
+      "region": "Ouaka",
+      "latitude": 5.76795,
+      "longitude": 20.67565
+    }
+  ],
+  "CG": [
+    {
+      "city": "Brazzaville",
+      "latitude": -4.25,
+      "longitude": 15.283333,
+      "region": ""
+    },
+    {
+      "city": "Pointe-Noire",
+      "region": "Pointe-Noire",
+      "latitude": -4.77609,
+      "longitude": 11.86352
+    },
+    {
+      "city": "Dolisie",
+      "region": "Niari",
+      "latitude": -4.19834,
+      "longitude": 12.66664
+    },
+    {
+      "city": "Nkayi",
+      "region": "Bouenza",
+      "latitude": -4.18396,
+      "longitude": 13.2859
+    },
+    {
+      "city": "Kayes",
+      "region": "Bouenza",
+      "latitude": -4.20493,
+      "longitude": 13.28608
+    },
+    {
+      "city": "Impfondo",
+      "region": "Likouala",
+      "latitude": 1.61804,
+      "longitude": 18.05981
+    }
+  ],
+  "CH": [
+    {
+      "city": "Bern",
+      "latitude": 46.916666666666664,
+      "longitude": 7.466667,
+      "region": ""
+    },
+    {
+      "city": "Zürich",
+      "region": "Zurich",
+      "latitude": 47.36667,
+      "longitude": 8.55
+    },
+    {
+      "city": "Geneva",
+      "region": "Geneva",
+      "latitude": 46.20222,
+      "longitude": 6.14569
+    },
+    {
+      "city": "Basel",
+      "region": "Basel-City",
+      "latitude": 47.55839,
+      "longitude": 7.57327
+    },
+    {
+      "city": "Lausanne",
+      "region": "Vaud",
+      "latitude": 46.516,
+      "longitude": 6.63282
+    },
+    {
+      "city": "Winterthur",
+      "region": "Zurich",
+      "latitude": 47.50564,
+      "longitude": 8.72413
+    }
+  ],
+  "CI": [
+    {
+      "city": "Yamoussoukro",
+      "latitude": 6.816666666666666,
+      "longitude": -5.266667,
+      "region": ""
+    },
+    {
+      "city": "Abidjan",
+      "region": "Abidjan Autonomous District",
+      "latitude": 5.35444,
+      "longitude": -4.00167
+    },
+    {
+      "city": "Abobo",
+      "region": "Abidjan Autonomous District",
+      "latitude": 5.41613,
+      "longitude": -4.0159
+    },
+    {
+      "city": "Bouaké",
+      "region": "Vallée du Bandama District",
+      "latitude": 7.69385,
+      "longitude": -5.03031
+    },
+    {
+      "city": "Korhogo",
+      "region": "Savanes District",
+      "latitude": 9.45803,
+      "longitude": -5.62961
+    },
+    {
+      "city": "Daloa",
+      "region": "Sassandra-Marahoue",
+      "latitude": 6.87735,
+      "longitude": -6.45022
+    }
+  ],
+  "CK": [
+    {
+      "city": "Avarua",
+      "latitude": -21.2,
+      "longitude": -159.766667,
+      "region": ""
+    }
+  ],
+  "CL": [
+    {
+      "city": "Santiago",
+      "latitude": -33.45,
+      "longitude": -70.666667,
+      "region": ""
+    },
+    {
+      "city": "Puente Alto",
+      "region": "Santiago Metropolitan",
+      "latitude": -33.61169,
+      "longitude": -70.57577
+    },
+    {
+      "city": "Maipú",
+      "region": "Santiago Metropolitan",
+      "latitude": -33.51421,
+      "longitude": -70.7651
+    },
+    {
+      "city": "Antofagasta",
+      "region": "Antofagasta",
+      "latitude": -23.65094,
+      "longitude": -70.39752
+    },
+    {
+      "city": "Viña del Mar",
+      "region": "Valparaiso",
+      "latitude": -33.02457,
+      "longitude": -71.55183
+    },
+    {
+      "city": "Valparaíso",
+      "region": "Valparaiso",
+      "latitude": -33.036,
+      "longitude": -71.62963
+    }
+  ],
+  "CM": [
+    {
+      "city": "Yaounde",
+      "latitude": 3.8666666666666667,
+      "longitude": 11.516667,
+      "region": ""
+    },
+    {
+      "city": "Douala",
+      "region": "Littoral",
+      "latitude": 4.04827,
+      "longitude": 9.70428
+    },
+    {
+      "city": "Yaoundé",
+      "region": "Centre",
+      "latitude": 3.86667,
+      "longitude": 11.51667
+    },
+    {
+      "city": "Bamenda",
+      "region": "North-West",
+      "latitude": 5.9597,
+      "longitude": 10.14597
+    },
+    {
+      "city": "Bafoussam",
+      "region": "West",
+      "latitude": 5.47775,
+      "longitude": 10.41759
+    },
+    {
+      "city": "Maroua",
+      "region": "Far North",
+      "latitude": 10.59095,
+      "longitude": 14.31593
+    }
+  ],
+  "CN": [
+    {
+      "city": "Beijing",
+      "latitude": 39.916666666666664,
+      "longitude": 116.383333,
+      "region": "Beijing"
+    },
+    {
+      "city": "Shanghai",
+      "region": "Shanghai",
+      "latitude": 31.22222,
+      "longitude": 121.45806
+    },
+    {
+      "city": "Chongqing",
+      "region": "Chongqing",
+      "latitude": 29.56026,
+      "longitude": 106.55771
+    },
+    {
+      "city": "Chengdu",
+      "region": "Sichuan",
+      "latitude": 30.66667,
+      "longitude": 104.06667
+    },
+    {
+      "city": "Guangzhou",
+      "region": "Guangdong",
+      "latitude": 23.11667,
+      "longitude": 113.25
+    },
+    {
+      "city": "Shenzhen",
+      "region": "Guangdong",
+      "latitude": 22.54554,
+      "longitude": 114.0683
+    }
+  ],
+  "CO": [
+    {
+      "city": "Bogota",
+      "latitude": 4.6,
+      "longitude": -74.083333,
+      "region": ""
+    },
+    {
+      "city": "Bogotá",
+      "region": "Bogota D.C.",
+      "latitude": 4.60971,
+      "longitude": -74.08175
+    },
+    {
+      "city": "Cali",
+      "region": "Valle del Cauca Department",
+      "latitude": 3.43054,
+      "longitude": -76.5199
+    },
+    {
+      "city": "Medellín",
+      "region": "Antioquia",
+      "latitude": 6.245,
+      "longitude": -75.57151
+    },
+    {
+      "city": "Barranquilla",
+      "region": "Atlántico",
+      "latitude": 10.96854,
+      "longitude": -74.78132
+    },
+    {
+      "city": "Kennedy",
+      "region": "Bogota D.C.",
+      "latitude": 4.6165,
+      "longitude": -74.14597
+    }
+  ],
+  "CR": [
+    {
+      "city": "San Jose",
+      "latitude": 9.933333333333334,
+      "longitude": -84.083333,
+      "region": ""
+    },
+    {
+      "city": "San José",
+      "region": "San José",
+      "latitude": 9.93388,
+      "longitude": -84.08489
+    },
+    {
+      "city": "Limón",
+      "region": "Limón Province",
+      "latitude": 9.99074,
+      "longitude": -83.03596
+    },
+    {
+      "city": "San Francisco",
+      "region": "Heredia Province",
+      "latitude": 9.9938,
+      "longitude": -84.12742
+    },
+    {
+      "city": "Alajuela",
+      "region": "Alajuela Province",
+      "latitude": 10.01723,
+      "longitude": -84.21275
+    },
+    {
+      "city": "Liberia",
+      "region": "Guanacaste Province",
+      "latitude": 10.63517,
+      "longitude": -85.43779
+    }
+  ],
+  "CU": [
+    {
+      "city": "Havana",
+      "latitude": 23.116666666666667,
+      "longitude": -82.35,
+      "region": ""
+    },
+    {
+      "city": "Santiago de Cuba",
+      "region": "Santiago de Cuba Province",
+      "latitude": 20.02287,
+      "longitude": -75.82171
+    },
+    {
+      "city": "Camagüey",
+      "region": "Camagüey",
+      "latitude": 21.38083,
+      "longitude": -77.91694
+    },
+    {
+      "city": "Holguín",
+      "region": "Holguín Province",
+      "latitude": 20.88722,
+      "longitude": -76.26306
+    },
+    {
+      "city": "Guantánamo",
+      "region": "Guantánamo Province",
+      "latitude": 20.14444,
+      "longitude": -75.20917
+    },
+    {
+      "city": "Santa Clara",
+      "region": "Villa Clara Province",
+      "latitude": 22.40711,
+      "longitude": -79.96581
+    }
+  ],
+  "CV": [
+    {
+      "city": "Praia",
+      "latitude": 14.916666666666666,
+      "longitude": -23.516667,
+      "region": ""
+    },
+    {
+      "city": "Mindelo",
+      "region": "São Vicente",
+      "latitude": 16.89014,
+      "longitude": -24.98042
+    },
+    {
+      "city": "Espargos",
+      "region": "Sal",
+      "latitude": 16.75524,
+      "longitude": -22.9446
+    },
+    {
+      "city": "Assomada",
+      "region": "Santa Catarina",
+      "latitude": 15.1,
+      "longitude": -23.68333
+    }
+  ],
+  "CW": [
+    {
+      "city": "Willemstad",
+      "latitude": 12.1,
+      "longitude": -68.916667,
+      "region": ""
+    },
+    {
+      "city": "Bandariba",
+      "region": "",
+      "latitude": 12.09257,
+      "longitude": -68.83092
+    }
+  ],
+  "CX": [
+    {
+      "city": "The Settlement",
+      "latitude": -10.416666666666666,
+      "longitude": 105.716667,
+      "region": ""
+    },
+    {
+      "city": "Flying Fish Cove",
+      "region": "",
+      "latitude": -10.42172,
+      "longitude": 105.67912
+    }
+  ],
+  "CY": [
+    {
+      "city": "Nicosia",
+      "latitude": 35.166666666666664,
+      "longitude": 33.366667,
+      "region": ""
+    },
+    {
+      "city": "Limassol",
+      "region": "Limassol",
+      "latitude": 34.68406,
+      "longitude": 33.03794
+    },
+    {
+      "city": "Larnaca",
+      "region": "Larnaka",
+      "latitude": 34.9221,
+      "longitude": 33.62794
+    },
+    {
+      "city": "Stróvolos",
+      "region": "Nicosia",
+      "latitude": 35.14867,
+      "longitude": 33.33384
+    },
+    {
+      "city": "Famagusta",
+      "region": "Ammochostos",
+      "latitude": 35.12489,
+      "longitude": 33.94135
+    },
+    {
+      "city": "Káto Lakatámeia",
+      "region": "Nicosia",
+      "latitude": 35.11755,
+      "longitude": 33.32539
+    }
+  ],
+  "CZ": [
+    {
+      "city": "Prague",
+      "latitude": 50.083333333333336,
+      "longitude": 14.466667,
+      "region": ""
+    },
+    {
+      "city": "Brno",
+      "region": "South Moravian",
+      "latitude": 49.19522,
+      "longitude": 16.60796
+    },
+    {
+      "city": "Ostrava",
+      "region": "Moravian-Silesian Region",
+      "latitude": 49.83465,
+      "longitude": 18.28204
+    },
+    {
+      "city": "Pilsen",
+      "region": "Plzeň Region",
+      "latitude": 49.74747,
+      "longitude": 13.37759
+    },
+    {
+      "city": "Liberec",
+      "region": "Liberec Region",
+      "latitude": 50.76711,
+      "longitude": 15.05619
+    },
+    {
+      "city": "Olomouc",
+      "region": "Olomouc Region",
+      "latitude": 49.59552,
+      "longitude": 17.25175
+    }
+  ],
+  "DE": [
+    {
+      "city": "Berlin",
+      "latitude": 52.516666666666666,
+      "longitude": 13.4,
+      "region": "Berlin"
+    },
+    {
+      "city": "Hamburg",
+      "region": "Hamburg",
+      "latitude": 53.55073,
+      "longitude": 9.99302
+    },
+    {
+      "city": "Munich",
+      "region": "Bavaria",
+      "latitude": 48.13743,
+      "longitude": 11.57549
+    },
+    {
+      "city": "Köln",
+      "region": "North Rhine-Westphalia",
+      "latitude": 50.93333,
+      "longitude": 6.95
+    },
+    {
+      "city": "Frankfurt am Main",
+      "region": "Hesse",
+      "latitude": 50.11552,
+      "longitude": 8.68417
+    },
+    {
+      "city": "Düsseldorf",
+      "region": "North Rhine-Westphalia",
+      "latitude": 51.22319,
+      "longitude": 6.77927
+    }
+  ],
+  "DJ": [
+    {
+      "city": "Djibouti",
+      "latitude": 11.583333333333334,
+      "longitude": 43.15,
+      "region": ""
+    },
+    {
+      "city": "Balbala",
+      "region": "Djibouti",
+      "latitude": 11.56194,
+      "longitude": 43.10666
+    },
+    {
+      "city": "Ali Sabih",
+      "region": "Ali Sabieh",
+      "latitude": 11.15583,
+      "longitude": 42.7125
+    },
+    {
+      "city": "Dikhil",
+      "region": "Dikhil",
+      "latitude": 11.10454,
+      "longitude": 42.36971
+    },
+    {
+      "city": "Tadjoura",
+      "region": "Tadjourah",
+      "latitude": 11.78778,
+      "longitude": 42.88222
+    },
+    {
+      "city": "Arta",
+      "region": "Arta",
+      "latitude": 11.52639,
+      "longitude": 42.85194
+    }
+  ],
+  "DK": [
+    {
+      "city": "Copenhagen",
+      "latitude": 55.666666666666664,
+      "longitude": 12.583333,
+      "region": ""
+    },
+    {
+      "city": "Århus",
+      "region": "Central Jutland",
+      "latitude": 56.15674,
+      "longitude": 10.21076
+    },
+    {
+      "city": "Odense",
+      "region": "South Denmark",
+      "latitude": 55.39594,
+      "longitude": 10.38831
+    },
+    {
+      "city": "Aalborg",
+      "region": "North Denmark",
+      "latitude": 57.048,
+      "longitude": 9.9187
+    },
+    {
+      "city": "Frederiksberg",
+      "region": "Capital Region",
+      "latitude": 55.67938,
+      "longitude": 12.53463
+    },
+    {
+      "city": "Esbjerg",
+      "region": "South Denmark",
+      "latitude": 55.47028,
+      "longitude": 8.45187
+    }
+  ],
+  "DM": [
+    {
+      "city": "Roseau",
+      "latitude": 15.3,
+      "longitude": -61.4,
+      "region": ""
+    }
+  ],
+  "DO": [
+    {
+      "city": "Santo Domingo",
+      "latitude": 18.466666666666665,
+      "longitude": -69.9,
+      "region": ""
+    },
+    {
+      "city": "Santiago de los Caballeros",
+      "region": "Santiago Province",
+      "latitude": 19.45036,
+      "longitude": -70.69085
+    },
+    {
+      "city": "Santo Domingo Oeste",
+      "region": "Santo Domingo Province",
+      "latitude": 18.5,
+      "longitude": -70
+    },
+    {
+      "city": "Santo Domingo Este",
+      "region": "Santo Domingo Province",
+      "latitude": 18.48511,
+      "longitude": -69.84757
+    },
+    {
+      "city": "San Pedro de Macorís",
+      "region": "San Pedro de Macorís",
+      "latitude": 18.4539,
+      "longitude": -69.30864
+    },
+    {
+      "city": "La Romana",
+      "region": "La Romana",
+      "latitude": 18.42332,
+      "longitude": -68.96635
+    }
+  ],
+  "DZ": [
+    {
+      "city": "Algiers",
+      "latitude": 36.75,
+      "longitude": 3.05,
+      "region": ""
+    },
+    {
+      "city": "Oran",
+      "region": "Oran",
+      "latitude": 35.69906,
+      "longitude": -0.63588
+    },
+    {
+      "city": "Constantine",
+      "region": "Constantine",
+      "latitude": 36.365,
+      "longitude": 6.61472
+    },
+    {
+      "city": "Annaba",
+      "region": "Annaba",
+      "latitude": 36.9,
+      "longitude": 7.76667
+    },
+    {
+      "city": "Blida",
+      "region": "Blida",
+      "latitude": 36.47004,
+      "longitude": 2.8277
+    },
+    {
+      "city": "Batna",
+      "region": "Batna",
+      "latitude": 35.55597,
+      "longitude": 6.17414
+    }
+  ],
+  "EC": [
+    {
+      "city": "Quito",
+      "latitude": -0.21666666666666667,
+      "longitude": -78.5,
+      "region": ""
+    },
+    {
+      "city": "Guayaquil",
+      "region": "Guayas",
+      "latitude": -2.19616,
+      "longitude": -79.88621
+    },
+    {
+      "city": "Cuenca",
+      "region": "Azuay",
+      "latitude": -2.8953,
+      "longitude": -78.9963
+    },
+    {
+      "city": "Santo Domingo de los Colorados",
+      "region": "Santo Domingo de los Tsáchilas",
+      "latitude": -0.25368,
+      "longitude": -79.17628
+    },
+    {
+      "city": "Ambato",
+      "region": "Tungurahua Province",
+      "latitude": -1.24908,
+      "longitude": -78.61675
+    },
+    {
+      "city": "Portoviejo",
+      "region": "Manabí",
+      "latitude": -1.05764,
+      "longitude": -80.45145
+    }
+  ],
+  "EE": [
+    {
+      "city": "Tallinn",
+      "latitude": 59.43333333333333,
+      "longitude": 24.716667,
+      "region": ""
+    },
+    {
+      "city": "Lasnamäe",
+      "region": "Harjumaa",
+      "latitude": 59.4336,
+      "longitude": 24.86017
+    },
+    {
+      "city": "Tartu",
+      "region": "Tartu",
+      "latitude": 58.38062,
+      "longitude": 26.72509
+    },
+    {
+      "city": "Mustamäe",
+      "region": "Harjumaa",
+      "latitude": 59.40482,
+      "longitude": 24.68119
+    },
+    {
+      "city": "Kesklinn",
+      "region": "Harjumaa",
+      "latitude": 59.4355,
+      "longitude": 24.75748
+    },
+    {
+      "city": "Põhja-Tallinn",
+      "region": "Harjumaa",
+      "latitude": 59.44901,
+      "longitude": 24.69812
+    }
+  ],
+  "EG": [
+    {
+      "city": "Cairo",
+      "latitude": 30.05,
+      "longitude": 31.25,
+      "region": "Cairo Governorate"
+    },
+    {
+      "city": "Alexandria",
+      "region": "Alexandria",
+      "latitude": 31.20176,
+      "longitude": 29.91582
+    },
+    {
+      "city": "Giza",
+      "region": "Giza",
+      "latitude": 30.00944,
+      "longitude": 31.20861
+    },
+    {
+      "city": "Shubrā al Khaymah",
+      "region": "Qalyubia",
+      "latitude": 30.12511,
+      "longitude": 31.25053
+    },
+    {
+      "city": "Port Said",
+      "region": "Port Said",
+      "latitude": 31.26531,
+      "longitude": 32.3019
+    },
+    {
+      "city": "Suez",
+      "region": "Suez",
+      "latitude": 29.97371,
+      "longitude": 32.52627
+    }
+  ],
+  "ER": [
+    {
+      "city": "Asmara",
+      "latitude": 15.333333333333334,
+      "longitude": 38.933333,
+      "region": ""
+    },
+    {
+      "city": "Keren",
+      "region": "Anseba",
+      "latitude": 15.77792,
+      "longitude": 38.45107
+    },
+    {
+      "city": "Himora",
+      "region": "Gash-Barka",
+      "latitude": 14.30427,
+      "longitude": 36.60601
+    },
+    {
+      "city": "Af’abet",
+      "region": "Debub",
+      "latitude": 16.18834,
+      "longitude": 38.68729
+    },
+    {
+      "city": "Massawa",
+      "region": "Northern Red Sea",
+      "latitude": 15.60811,
+      "longitude": 39.47455
+    },
+    {
+      "city": "Assab",
+      "region": "Southern Red Sea",
+      "latitude": 13.00917,
+      "longitude": 42.73944
+    }
+  ],
+  "ES": [
+    {
+      "city": "Madrid",
+      "latitude": 40.4,
+      "longitude": -3.683333,
+      "region": "Community of Madrid"
+    },
+    {
+      "city": "Barcelona",
+      "region": "Catalonia",
+      "latitude": 41.38879,
+      "longitude": 2.15899
+    },
+    {
+      "city": "Valencia",
+      "region": "Valencia",
+      "latitude": 39.47391,
+      "longitude": -0.37966
+    },
+    {
+      "city": "Zaragoza",
+      "region": "Aragon",
+      "latitude": 41.65606,
+      "longitude": -0.87734
+    },
+    {
+      "city": "Sevilla",
+      "region": "Andalusia",
+      "latitude": 37.38283,
+      "longitude": -5.97317
+    },
+    {
+      "city": "Málaga",
+      "region": "Andalusia",
+      "latitude": 36.72016,
+      "longitude": -4.42034
+    }
+  ],
+  "ET": [
+    {
+      "city": "Addis Ababa",
+      "latitude": 9.033333333333333,
+      "longitude": 38.7,
+      "region": ""
+    },
+    {
+      "city": "Jijiga",
+      "region": "Somali",
+      "latitude": 9.35,
+      "longitude": 42.8
+    },
+    {
+      "city": "Gonder",
+      "region": "Amhara",
+      "latitude": 12.6,
+      "longitude": 37.46667
+    },
+    {
+      "city": "Mek'ele",
+      "region": "Tigray",
+      "latitude": 13.49667,
+      "longitude": 39.47528
+    },
+    {
+      "city": "Nazrēt",
+      "region": "Oromiya",
+      "latitude": 8.55,
+      "longitude": 39.26667
+    },
+    {
+      "city": "Warder",
+      "region": "Somali",
+      "latitude": 6.97444,
+      "longitude": 45.34083
+    }
+  ],
+  "FI": [
+    {
+      "city": "Helsinki",
+      "latitude": 60.166666666666664,
+      "longitude": 24.933333,
+      "region": ""
+    },
+    {
+      "city": "Espoo",
+      "region": "Uusimaa",
+      "latitude": 60.2052,
+      "longitude": 24.6522
+    },
+    {
+      "city": "Tampere",
+      "region": "Pirkanmaa",
+      "latitude": 61.49911,
+      "longitude": 23.78712
+    },
+    {
+      "city": "Vantaa",
+      "region": "Uusimaa",
+      "latitude": 60.29414,
+      "longitude": 25.04099
+    },
+    {
+      "city": "Oulu",
+      "region": "North Ostrobothnia",
+      "latitude": 65.01236,
+      "longitude": 25.46816
+    },
+    {
+      "city": "Turku",
+      "region": "Southwest Finland",
+      "latitude": 60.45148,
+      "longitude": 22.26869
+    }
+  ],
+  "FJ": [
+    {
+      "city": "Suva",
+      "latitude": -18.133333333333333,
+      "longitude": 178.416667,
+      "region": ""
+    },
+    {
+      "city": "Nasinu",
+      "region": "Central",
+      "latitude": -18.07051,
+      "longitude": 178.51313
+    },
+    {
+      "city": "Lautoka",
+      "region": "Western",
+      "latitude": -17.61686,
+      "longitude": 177.45049
+    },
+    {
+      "city": "Nadi",
+      "region": "Western",
+      "latitude": -17.80309,
+      "longitude": 177.41617
+    },
+    {
+      "city": "Labasa",
+      "region": "Northern",
+      "latitude": -16.4332,
+      "longitude": 179.36451
+    },
+    {
+      "city": "Lami",
+      "region": "Central",
+      "latitude": -18.11094,
+      "longitude": 178.40943
+    }
+  ],
+  "FK": [
+    {
+      "city": "Stanley",
+      "latitude": -51.7,
+      "longitude": -57.85,
+      "region": ""
+    }
+  ],
+  "FM": [
+    {
+      "city": "Palikir",
+      "latitude": 6.916666666666667,
+      "longitude": 158.15,
+      "region": ""
+    }
+  ],
+  "FO": [
+    {
+      "city": "Torshavn",
+      "latitude": 62,
+      "longitude": -6.766667,
+      "region": ""
+    },
+    {
+      "city": "Tórshavn",
+      "region": "Streymoy",
+      "latitude": 62.00973,
+      "longitude": -6.77164
+    }
+  ],
+  "FR": [
+    {
+      "city": "Paris",
+      "latitude": 48.86666666666667,
+      "longitude": 2.333333,
+      "region": "Île-de-France"
+    },
+    {
+      "city": "Marseille",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "latitude": 43.29695,
+      "longitude": 5.38107
+    },
+    {
+      "city": "Lyon",
+      "region": "Auvergne-Rhône-Alpes",
+      "latitude": 45.74906,
+      "longitude": 4.84789
+    },
+    {
+      "city": "Toulouse",
+      "region": "Occitanie",
+      "latitude": 43.60426,
+      "longitude": 1.44367
+    },
+    {
+      "city": "Nice",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "latitude": 43.70313,
+      "longitude": 7.26608
+    },
+    {
+      "city": "Nantes",
+      "region": "Pays de la Loire",
+      "latitude": 47.21725,
+      "longitude": -1.55336
+    }
+  ],
+  "GA": [
+    {
+      "city": "Libreville",
+      "latitude": 0.38333333333333336,
+      "longitude": 9.45,
+      "region": ""
+    },
+    {
+      "city": "Port-Gentil",
+      "region": "Ogooué-Maritime",
+      "latitude": -0.71933,
+      "longitude": 8.78151
+    },
+    {
+      "city": "Franceville",
+      "region": "Haut-Ogooué",
+      "latitude": -1.63333,
+      "longitude": 13.58357
+    },
+    {
+      "city": "Owendo",
+      "region": "Estuaire",
+      "latitude": 0.29123,
+      "longitude": 9.50465
+    },
+    {
+      "city": "Oyem",
+      "region": "Woleu-Ntem",
+      "latitude": 1.5995,
+      "longitude": 11.57933
+    },
+    {
+      "city": "Moanda",
+      "region": "Haut-Ogooué",
+      "latitude": -1.56652,
+      "longitude": 13.1987
+    }
+  ],
+  "GB": [
+    {
+      "city": "London",
+      "latitude": 51.5,
+      "longitude": -0.083333,
+      "region": "England"
+    },
+    {
+      "city": "Birmingham",
+      "region": "England",
+      "latitude": 52.48142,
+      "longitude": -1.89983
+    },
+    {
+      "city": "Glasgow",
+      "region": "Scotland",
+      "latitude": 55.86515,
+      "longitude": -4.25763
+    },
+    {
+      "city": "Manchester",
+      "region": "England",
+      "latitude": 53.48095,
+      "longitude": -2.23743
+    },
+    {
+      "city": "Sheffield",
+      "region": "England",
+      "latitude": 53.38297,
+      "longitude": -1.4659
+    },
+    {
+      "city": "Leeds",
+      "region": "England",
+      "latitude": 53.79648,
+      "longitude": -1.54785
+    }
+  ],
+  "GD": [
+    {
+      "city": "Saint George's",
+      "latitude": 12.05,
+      "longitude": -61.75,
+      "region": ""
+    }
+  ],
+  "GE": [
+    {
+      "city": "Tbilisi",
+      "latitude": 41.68333333333333,
+      "longitude": 44.833333,
+      "region": ""
+    },
+    {
+      "city": "Batumi",
+      "region": "Adjara",
+      "latitude": 41.64077,
+      "longitude": 41.6306
+    },
+    {
+      "city": "Kutaisi",
+      "region": "Imereti",
+      "latitude": 42.26791,
+      "longitude": 42.69459
+    },
+    {
+      "city": "Rustavi",
+      "region": "Kvemo Kartli",
+      "latitude": 41.56271,
+      "longitude": 44.9787
+    },
+    {
+      "city": "Sokhumi",
+      "region": "Abkhazia",
+      "latitude": 43.00697,
+      "longitude": 40.9893
+    },
+    {
+      "city": "Gori",
+      "region": "Shida Kartli",
+      "latitude": 41.98532,
+      "longitude": 44.1129
+    }
+  ],
+  "GF": [
+    {
+      "city": "Cayenne",
+      "latitude": 4,
+      "longitude": -53,
+      "region": ""
+    },
+    {
+      "city": "Matoury",
+      "region": "Guyane",
+      "latitude": 4.84921,
+      "longitude": -52.32355
+    },
+    {
+      "city": "Saint-Laurent-du-Maroni",
+      "region": "Guyane",
+      "latitude": 5.50153,
+      "longitude": -54.02916
+    },
+    {
+      "city": "Kourou",
+      "region": "Guyane",
+      "latitude": 5.16281,
+      "longitude": -52.64265
+    },
+    {
+      "city": "Rémire-Montjoly",
+      "region": "Guyane",
+      "latitude": 4.91667,
+      "longitude": -52.26667
+    }
+  ],
+  "GG": [
+    {
+      "city": "Saint Peter Port",
+      "latitude": 49.45,
+      "longitude": -2.533333,
+      "region": ""
+    }
+  ],
+  "GH": [
+    {
+      "city": "Accra",
+      "latitude": 5.55,
+      "longitude": -0.216667,
+      "region": "Greater Accra"
+    },
+    {
+      "city": "Kumasi",
+      "region": "Ashanti",
+      "latitude": 6.68848,
+      "longitude": -1.62443
+    },
+    {
+      "city": "Tamale",
+      "region": "Northern",
+      "latitude": 9.40079,
+      "longitude": -0.8393
+    },
+    {
+      "city": "Takoradi",
+      "region": "Western",
+      "latitude": 4.89816,
+      "longitude": -1.76029
+    },
+    {
+      "city": "Sekondi",
+      "region": "Western",
+      "latitude": 4.93422,
+      "longitude": -1.71454
+    },
+    {
+      "city": "Cape Coast",
+      "region": "Central",
+      "latitude": 5.10535,
+      "longitude": -1.2466
+    }
+  ],
+  "GI": [
+    {
+      "city": "Gibraltar",
+      "latitude": 36.13333333333333,
+      "longitude": -5.35,
+      "region": ""
+    }
+  ],
+  "GL": [
+    {
+      "city": "Nuuk",
+      "latitude": 64.18333333333334,
+      "longitude": -51.75,
+      "region": ""
+    }
+  ],
+  "GM": [
+    {
+      "city": "Banjul",
+      "latitude": 13.45,
+      "longitude": -16.566667,
+      "region": ""
+    },
+    {
+      "city": "Serekunda",
+      "region": "Banjul",
+      "latitude": 13.43833,
+      "longitude": -16.67806
+    },
+    {
+      "city": "Brikama",
+      "region": "Western",
+      "latitude": 13.27136,
+      "longitude": -16.64944
+    },
+    {
+      "city": "Bununka Kunda",
+      "region": "Banjul",
+      "latitude": 13.42722,
+      "longitude": -16.68528
+    },
+    {
+      "city": "Sukuta",
+      "region": "Western",
+      "latitude": 13.41033,
+      "longitude": -16.70815
+    },
+    {
+      "city": "Talinding",
+      "region": "Banjul",
+      "latitude": 13.42558,
+      "longitude": -16.67261
+    }
+  ],
+  "GN": [
+    {
+      "city": "Conakry",
+      "latitude": 9.5,
+      "longitude": -13.7,
+      "region": ""
+    },
+    {
+      "city": "Camayenne",
+      "region": "Conakry",
+      "latitude": 9.535,
+      "longitude": -13.68778
+    },
+    {
+      "city": "Nzérékoré",
+      "region": "Nzérékoré Region",
+      "latitude": 7.75624,
+      "longitude": -8.8179
+    },
+    {
+      "city": "Kankan",
+      "region": "Kankan Region",
+      "latitude": 10.38542,
+      "longitude": -9.30568
+    },
+    {
+      "city": "Manéah",
+      "region": "Kindia",
+      "latitude": 9.73333,
+      "longitude": -13.41667
+    },
+    {
+      "city": "Dixinn",
+      "region": "Conakry",
+      "latitude": 9.55111,
+      "longitude": -13.67306
+    }
+  ],
+  "GP": [
+    {
+      "city": "Basse-Terre",
+      "latitude": 16.25,
+      "longitude": -61.583333,
+      "region": ""
+    },
+    {
+      "city": "Les Abymes",
+      "region": "Guadeloupe",
+      "latitude": 16.273,
+      "longitude": -61.50507
+    },
+    {
+      "city": "Baie-Mahault",
+      "region": "Guadeloupe",
+      "latitude": 16.26738,
+      "longitude": -61.58543
+    },
+    {
+      "city": "Le Gosier",
+      "region": "Guadeloupe",
+      "latitude": 16.20618,
+      "longitude": -61.49306
+    },
+    {
+      "city": "Petit-Bourg",
+      "region": "Guadeloupe",
+      "latitude": 16.19163,
+      "longitude": -61.5914
+    },
+    {
+      "city": "Sainte-Anne",
+      "region": "Guadeloupe",
+      "latitude": 16.22564,
+      "longitude": -61.38098
+    }
+  ],
+  "GQ": [
+    {
+      "city": "Malabo",
+      "latitude": 3.75,
+      "longitude": 8.783333,
+      "region": ""
+    },
+    {
+      "city": "Bata",
+      "region": "Litoral",
+      "latitude": 1.86391,
+      "longitude": 9.76582
+    },
+    {
+      "city": "Ebebiyin",
+      "region": "Kié-Ntem",
+      "latitude": 2.15218,
+      "longitude": 11.33013
+    },
+    {
+      "city": "Añisoc",
+      "region": "Wele-Nzas",
+      "latitude": 1.8658,
+      "longitude": 10.76892
+    },
+    {
+      "city": "Aconibe",
+      "region": "Wele-Nzas",
+      "latitude": 1.29683,
+      "longitude": 10.93691
+    },
+    {
+      "city": "Ciudad de la Paz",
+      "region": "Djibloho",
+      "latitude": 1.5925,
+      "longitude": 10.82361
+    }
+  ],
+  "GR": [
+    {
+      "city": "Athens",
+      "latitude": 37.983333333333334,
+      "longitude": 23.733333,
+      "region": ""
+    },
+    {
+      "city": "Thessaloníki",
+      "region": "Central Macedonia",
+      "latitude": 40.64072,
+      "longitude": 22.93493
+    },
+    {
+      "city": "Pátra",
+      "region": "West Greece",
+      "latitude": 38.2462,
+      "longitude": 21.73508
+    },
+    {
+      "city": "Piraeus",
+      "region": "Attica",
+      "latitude": 37.94203,
+      "longitude": 23.64619
+    },
+    {
+      "city": "Lárisa",
+      "region": "Thessaly",
+      "latitude": 39.62847,
+      "longitude": 22.42112
+    },
+    {
+      "city": "Peristéri",
+      "region": "Attica",
+      "latitude": 38.01539,
+      "longitude": 23.69187
+    }
+  ],
+  "GT": [
+    {
+      "city": "Guatemala City",
+      "latitude": 14.616666666666667,
+      "longitude": -90.516667,
+      "region": ""
+    },
+    {
+      "city": "Villa Nueva",
+      "region": "Guatemala",
+      "latitude": 14.52512,
+      "longitude": -90.58544
+    },
+    {
+      "city": "Mixco",
+      "region": "Guatemala",
+      "latitude": 14.63077,
+      "longitude": -90.60711
+    },
+    {
+      "city": "Cobán",
+      "region": "Alta Verapaz",
+      "latitude": 15.47025,
+      "longitude": -90.37455
+    },
+    {
+      "city": "Quetzaltenango",
+      "region": "Quetzaltenango",
+      "latitude": 14.84462,
+      "longitude": -91.52316
+    },
+    {
+      "city": "Jalapa",
+      "region": "Jalapa",
+      "latitude": 14.63542,
+      "longitude": -89.99112
+    }
+  ],
+  "GU": [
+    {
+      "city": "Hagatna",
+      "latitude": 13.466666666666667,
+      "longitude": 144.733333,
+      "region": ""
+    },
+    {
+      "city": "Dededo Village",
+      "region": "Dededo",
+      "latitude": 13.51777,
+      "longitude": 144.8391
+    },
+    {
+      "city": "Yigo Village",
+      "region": "Yigo",
+      "latitude": 13.53605,
+      "longitude": 144.88855
+    },
+    {
+      "city": "Tamuning-Tumon-Harmon Village",
+      "region": "Tamuning",
+      "latitude": 13.48773,
+      "longitude": 144.78138
+    },
+    {
+      "city": "Tamuning",
+      "region": "Tamuning",
+      "latitude": 13.48754,
+      "longitude": 144.78143
+    },
+    {
+      "city": "Mangilao Village",
+      "region": "Mangilao",
+      "latitude": 13.44761,
+      "longitude": 144.80109
+    }
+  ],
+  "GW": [
+    {
+      "city": "Bissau",
+      "latitude": 11.85,
+      "longitude": -15.583333,
+      "region": ""
+    },
+    {
+      "city": "Bairro Militar",
+      "region": "Bissau",
+      "latitude": 11.8746,
+      "longitude": -15.6158
+    },
+    {
+      "city": "Gabú",
+      "region": "Gabú",
+      "latitude": 12.28,
+      "longitude": -14.22222
+    },
+    {
+      "city": "Contumo",
+      "region": "Bissau",
+      "latitude": 11.85,
+      "longitude": -15.61667
+    },
+    {
+      "city": "Reino de Bandim",
+      "region": "Bissau",
+      "latitude": 11.85,
+      "longitude": -15.6
+    },
+    {
+      "city": "Missira",
+      "region": "Bissau",
+      "latitude": 11.86145,
+      "longitude": -15.60679
+    }
+  ],
+  "GY": [
+    {
+      "city": "Georgetown",
+      "latitude": 6.8,
+      "longitude": -58.15,
+      "region": ""
+    },
+    {
+      "city": "Linden",
+      "region": "Upper Demerara-Berbice",
+      "latitude": 6.00815,
+      "longitude": -58.30724
+    },
+    {
+      "city": "New Amsterdam",
+      "region": "East Berbice-Corentyne",
+      "latitude": 6.24924,
+      "longitude": -57.51578
+    }
+  ],
+  "HK": [
+    {
+      "city": "Hong Kong",
+      "latitude": 22.3019,
+      "longitude": 114.1742,
+      "region": ""
+    },
+    {
+      "city": "New Territories",
+      "region": "",
+      "latitude": 22.42441,
+      "longitude": 114.11095
+    },
+    {
+      "city": "Kowloon",
+      "region": "",
+      "latitude": 22.31667,
+      "longitude": 114.18333
+    },
+    {
+      "city": "Hong Kong Island",
+      "region": "",
+      "latitude": 22.26302,
+      "longitude": 114.18419
+    },
+    {
+      "city": "Victoria",
+      "region": "Central and Western",
+      "latitude": 22.2875,
+      "longitude": 114.14417
+    },
+    {
+      "city": "Tuen Mun",
+      "region": "Tuen Mun",
+      "latitude": 22.39175,
+      "longitude": 113.97157
+    }
+  ],
+  "HN": [
+    {
+      "city": "Tegucigalpa",
+      "latitude": 14.1,
+      "longitude": -87.216667,
+      "region": ""
+    },
+    {
+      "city": "San Pedro Sula",
+      "region": "Cortés Department",
+      "latitude": 15.50585,
+      "longitude": -88.02588
+    },
+    {
+      "city": "Danlí",
+      "region": "El Paraíso Department",
+      "latitude": 14.03333,
+      "longitude": -86.58333
+    },
+    {
+      "city": "La Ceiba",
+      "region": "Atlántida Department",
+      "latitude": 15.75971,
+      "longitude": -86.78221
+    },
+    {
+      "city": "Puerto Cortez",
+      "region": "Cortés Department",
+      "latitude": 15.82562,
+      "longitude": -87.92968
+    },
+    {
+      "city": "Catacamas",
+      "region": "Olancho Department",
+      "latitude": 14.85114,
+      "longitude": -85.89412
+    }
+  ],
+  "HR": [
+    {
+      "city": "Zagreb",
+      "latitude": 45.8,
+      "longitude": 16,
+      "region": ""
+    },
+    {
+      "city": "Split",
+      "region": "Split-Dalmatia",
+      "latitude": 43.50891,
+      "longitude": 16.43915
+    },
+    {
+      "city": "Rijeka",
+      "region": "Primorje-Gorski Kotar",
+      "latitude": 45.32673,
+      "longitude": 14.44241
+    },
+    {
+      "city": "Osijek",
+      "region": "County of Osijek-Baranja",
+      "latitude": 45.55066,
+      "longitude": 18.6942
+    },
+    {
+      "city": "Zadar",
+      "region": "Zadar",
+      "latitude": 44.11578,
+      "longitude": 15.22514
+    },
+    {
+      "city": "Sesvete",
+      "region": "Zagreb",
+      "latitude": 45.83111,
+      "longitude": 16.11639
+    }
+  ],
+  "HT": [
+    {
+      "city": "Port-au-Prince",
+      "latitude": 18.533333333333335,
+      "longitude": -72.333333,
+      "region": ""
+    },
+    {
+      "city": "Carrefour",
+      "region": "Ouest",
+      "latitude": 18.53333,
+      "longitude": -72.4
+    },
+    {
+      "city": "Delmas",
+      "region": "Ouest",
+      "latitude": 18.54478,
+      "longitude": -72.30036
+    },
+    {
+      "city": "Pétionville",
+      "region": "Ouest",
+      "latitude": 18.5125,
+      "longitude": -72.28528
+    },
+    {
+      "city": "Port-de-Paix",
+      "region": "Nord-Ouest",
+      "latitude": 19.93984,
+      "longitude": -72.83037
+    },
+    {
+      "city": "Saint-Marc",
+      "region": "Artibonite",
+      "latitude": 19.11136,
+      "longitude": -72.70078
+    }
+  ],
+  "HU": [
+    {
+      "city": "Budapest",
+      "latitude": 47.5,
+      "longitude": 19.083333,
+      "region": ""
+    },
+    {
+      "city": "Pest",
+      "region": "Budapest",
+      "latitude": 47.5,
+      "longitude": 19.08333
+    },
+    {
+      "city": "Buda",
+      "region": "Budapest",
+      "latitude": 47.5,
+      "longitude": 19.03333
+    },
+    {
+      "city": "Debrecen",
+      "region": "Hajdú-Bihar",
+      "latitude": 47.53167,
+      "longitude": 21.62444
+    },
+    {
+      "city": "Szeged",
+      "region": "Csongrád",
+      "latitude": 46.253,
+      "longitude": 20.14824
+    },
+    {
+      "city": "Miskolc",
+      "region": "Borsod-Abaúj-Zemplén",
+      "latitude": 48.10327,
+      "longitude": 20.77806
+    }
+  ],
+  "ID": [
+    {
+      "city": "Jakarta",
+      "latitude": -6.166666666666667,
+      "longitude": 106.816667,
+      "region": ""
+    },
+    {
+      "city": "Surabaya",
+      "region": "East Java",
+      "latitude": -7.24917,
+      "longitude": 112.75083
+    },
+    {
+      "city": "Bekasi",
+      "region": "West Java",
+      "latitude": -6.2349,
+      "longitude": 106.9896
+    },
+    {
+      "city": "Bandung",
+      "region": "West Java",
+      "latitude": -6.92222,
+      "longitude": 107.60694
+    },
+    {
+      "city": "Medan",
+      "region": "North Sumatra",
+      "latitude": 3.58333,
+      "longitude": 98.66667
+    },
+    {
+      "city": "Depok",
+      "region": "West Java",
+      "latitude": -6.4,
+      "longitude": 106.81861
+    }
+  ],
+  "IE": [
+    {
+      "city": "Dublin",
+      "latitude": 53.31666666666667,
+      "longitude": -6.233333,
+      "region": ""
+    },
+    {
+      "city": "South Dublin",
+      "region": "Leinster",
+      "latitude": 53.29026,
+      "longitude": -6.34151
+    },
+    {
+      "city": "Cork",
+      "region": "Munster",
+      "latitude": 51.89797,
+      "longitude": -8.47061
+    },
+    {
+      "city": "Limerick",
+      "region": "Munster",
+      "latitude": 52.66472,
+      "longitude": -8.62306
+    },
+    {
+      "city": "Galway",
+      "region": "Connacht",
+      "latitude": 53.27245,
+      "longitude": -9.05095
+    },
+    {
+      "city": "Tallaght",
+      "region": "Leinster",
+      "latitude": 53.2859,
+      "longitude": -6.37344
+    }
+  ],
+  "IL": [
+    {
+      "city": "Jerusalem",
+      "latitude": 31.766666666666666,
+      "longitude": 35.233333,
+      "region": ""
+    },
+    {
+      "city": "Tel Aviv",
+      "region": "Tel Aviv",
+      "latitude": 32.08088,
+      "longitude": 34.78057
+    },
+    {
+      "city": "West Jerusalem",
+      "region": "Jerusalem",
+      "latitude": 31.78199,
+      "longitude": 35.21961
+    },
+    {
+      "city": "Haifa",
+      "region": "Haifa",
+      "latitude": 32.81303,
+      "longitude": 34.99928
+    },
+    {
+      "city": "Rishon LeTsiyyon",
+      "region": "Central District",
+      "latitude": 31.97102,
+      "longitude": 34.78939
+    },
+    {
+      "city": "Petaẖ Tiqva",
+      "region": "Central District",
+      "latitude": 32.0888,
+      "longitude": 34.88666
+    }
+  ],
+  "IM": [
+    {
+      "city": "Douglas",
+      "latitude": 54.15,
+      "longitude": -4.483333,
+      "region": ""
+    }
+  ],
+  "IN": [
+    {
+      "city": "New Delhi",
+      "latitude": 28.6,
+      "longitude": 77.2,
+      "region": "Delhi"
+    },
+    {
+      "city": "Mumbai",
+      "region": "Maharashtra",
+      "latitude": 19.07283,
+      "longitude": 72.88261
+    },
+    {
+      "city": "Delhi",
+      "region": "Delhi",
+      "latitude": 28.65195,
+      "longitude": 77.23149
+    },
+    {
+      "city": "Bengaluru",
+      "region": "Karnataka",
+      "latitude": 12.97194,
+      "longitude": 77.59369
+    },
+    {
+      "city": "Hyderabad",
+      "region": "Telangana",
+      "latitude": 17.38405,
+      "longitude": 78.45636
+    },
+    {
+      "city": "Ahmedabad",
+      "region": "Gujarat",
+      "latitude": 23.02579,
+      "longitude": 72.58727
+    }
+  ],
+  "IO": [
+    {
+      "city": "Diego Garcia",
+      "latitude": -7.3,
+      "longitude": 72.4,
+      "region": ""
+    }
+  ],
+  "IQ": [
+    {
+      "city": "Baghdad",
+      "latitude": 33.333333333333336,
+      "longitude": 44.4,
+      "region": ""
+    },
+    {
+      "city": "Al Mawşil al Jadīdah",
+      "region": "Nineveh",
+      "latitude": 36.33271,
+      "longitude": 43.10555
+    },
+    {
+      "city": "Mosul",
+      "region": "Nineveh",
+      "latitude": 36.335,
+      "longitude": 43.11889
+    },
+    {
+      "city": "Erbil",
+      "region": "Erbil",
+      "latitude": 36.19117,
+      "longitude": 44.00943
+    },
+    {
+      "city": "Basrah",
+      "region": "Basra",
+      "latitude": 30.50852,
+      "longitude": 47.7804
+    },
+    {
+      "city": "Karbala",
+      "region": "Karbala",
+      "latitude": 32.61603,
+      "longitude": 44.02488
+    }
+  ],
+  "IR": [
+    {
+      "city": "Tehran",
+      "latitude": 35.7,
+      "longitude": 51.416667,
+      "region": ""
+    },
+    {
+      "city": "Mashhad",
+      "region": "Razavi Khorasan",
+      "latitude": 36.29807,
+      "longitude": 59.60567
+    },
+    {
+      "city": "Isfahan",
+      "region": "Isfahan",
+      "latitude": 32.65246,
+      "longitude": 51.67462
+    },
+    {
+      "city": "Karaj",
+      "region": "Alborz Province",
+      "latitude": 35.83266,
+      "longitude": 50.99155
+    },
+    {
+      "city": "Tabriz",
+      "region": "East Azerbaijan",
+      "latitude": 38.08,
+      "longitude": 46.2919
+    },
+    {
+      "city": "Shiraz",
+      "region": "Fars",
+      "latitude": 29.61031,
+      "longitude": 52.53113
+    }
+  ],
+  "IS": [
+    {
+      "city": "Reykjavik",
+      "latitude": 64.15,
+      "longitude": -21.95,
+      "region": ""
+    },
+    {
+      "city": "Reykjavík",
+      "region": "Capital Region",
+      "latitude": 64.13548,
+      "longitude": -21.89541
+    },
+    {
+      "city": "Kópavogur",
+      "region": "Capital Region",
+      "latitude": 64.11234,
+      "longitude": -21.91298
+    },
+    {
+      "city": "Hafnarfjörður",
+      "region": "Capital Region",
+      "latitude": 64.0671,
+      "longitude": -21.93774
+    },
+    {
+      "city": "Reykjanesbær",
+      "region": "Southern Peninsula",
+      "latitude": 63.99813,
+      "longitude": -22.56111
+    },
+    {
+      "city": "Akureyri",
+      "region": "Northeast",
+      "latitude": 65.68353,
+      "longitude": -18.0878
+    }
+  ],
+  "IT": [
+    {
+      "city": "Rome",
+      "latitude": 41.9,
+      "longitude": 12.483333,
+      "region": "Lazio"
+    },
+    {
+      "city": "Milan",
+      "region": "Lombardy",
+      "latitude": 45.46427,
+      "longitude": 9.18951
+    },
+    {
+      "city": "Naples",
+      "region": "Campania",
+      "latitude": 40.85216,
+      "longitude": 14.26811
+    },
+    {
+      "city": "Turin",
+      "region": "Piedmont",
+      "latitude": 45.07049,
+      "longitude": 7.68682
+    },
+    {
+      "city": "Palermo",
+      "region": "Sicily",
+      "latitude": 38.1166,
+      "longitude": 13.3636
+    },
+    {
+      "city": "Genoa",
+      "region": "Liguria",
+      "latitude": 44.40478,
+      "longitude": 8.94439
+    }
+  ],
+  "JE": [
+    {
+      "city": "Saint Helier",
+      "latitude": 49.18333333333333,
+      "longitude": -2.1,
+      "region": ""
+    }
+  ],
+  "JM": [
+    {
+      "city": "Kingston",
+      "latitude": 18,
+      "longitude": -76.8,
+      "region": ""
+    },
+    {
+      "city": "New Kingston",
+      "region": "Saint Andrew Parish",
+      "latitude": 18.00747,
+      "longitude": -76.78319
+    },
+    {
+      "city": "Spanish Town",
+      "region": "Saint Catherine Parish",
+      "latitude": 17.99107,
+      "longitude": -76.95742
+    },
+    {
+      "city": "Portmore",
+      "region": "Saint Catherine Parish",
+      "latitude": 17.97102,
+      "longitude": -76.88691
+    },
+    {
+      "city": "Montego Bay",
+      "region": "Saint James Parish",
+      "latitude": 18.47116,
+      "longitude": -77.91883
+    },
+    {
+      "city": "Mandeville",
+      "region": "Manchester",
+      "latitude": 18.04168,
+      "longitude": -77.50714
+    }
+  ],
+  "JO": [
+    {
+      "city": "Amman",
+      "latitude": 31.95,
+      "longitude": 35.933333,
+      "region": ""
+    },
+    {
+      "city": "Zarqa",
+      "region": "Zarqa",
+      "latitude": 32.07275,
+      "longitude": 36.08796
+    },
+    {
+      "city": "Irbid",
+      "region": "Irbid",
+      "latitude": 32.55556,
+      "longitude": 35.85
+    },
+    {
+      "city": "Russeifa",
+      "region": "Zarqa",
+      "latitude": 32.01778,
+      "longitude": 36.04639
+    },
+    {
+      "city": "Ḩayy Khildā",
+      "region": "Amman",
+      "latitude": 31.99202,
+      "longitude": 35.84002
+    },
+    {
+      "city": "Khuraybat as Sūq",
+      "region": "Amman",
+      "latitude": 31.87913,
+      "longitude": 35.92098
+    }
+  ],
+  "JP": [
+    {
+      "city": "Tokyo",
+      "latitude": 35.68333333333333,
+      "longitude": 139.75,
+      "region": "Tokyo"
+    },
+    {
+      "city": "Yokohama",
+      "region": "Kanagawa",
+      "latitude": 35.43333,
+      "longitude": 139.65
+    },
+    {
+      "city": "Osaka",
+      "region": "Osaka",
+      "latitude": 34.69379,
+      "longitude": 135.50107
+    },
+    {
+      "city": "Nagoya",
+      "region": "Aichi",
+      "latitude": 35.18147,
+      "longitude": 136.90641
+    },
+    {
+      "city": "Sapporo",
+      "region": "Hokkaido",
+      "latitude": 43.06667,
+      "longitude": 141.35
+    },
+    {
+      "city": "Fukuoka",
+      "region": "Fukuoka",
+      "latitude": 33.6,
+      "longitude": 130.41667
+    }
+  ],
+  "KE": [
+    {
+      "city": "Nairobi",
+      "latitude": -1.2833333333333332,
+      "longitude": 36.816667,
+      "region": "Nairobi County"
+    },
+    {
+      "city": "Kakamega",
+      "region": "Kakamega County",
+      "latitude": 0.28422,
+      "longitude": 34.75229
+    },
+    {
+      "city": "Mombasa",
+      "region": "Mombasa County",
+      "latitude": -4.05466,
+      "longitude": 39.66359
+    },
+    {
+      "city": "Nakuru",
+      "region": "Nakuru County",
+      "latitude": -0.30719,
+      "longitude": 36.07225
+    },
+    {
+      "city": "Ruiru",
+      "region": "Kiambu County",
+      "latitude": -1.14665,
+      "longitude": 36.96087
+    },
+    {
+      "city": "Eldoret",
+      "region": "Uasin Gishu County",
+      "latitude": 0.52036,
+      "longitude": 35.26993
+    }
+  ],
+  "KG": [
+    {
+      "city": "Bishkek",
+      "latitude": 42.86666666666667,
+      "longitude": 74.6,
+      "region": ""
+    },
+    {
+      "city": "Osh",
+      "region": "Osh Region",
+      "latitude": 40.52828,
+      "longitude": 72.7985
+    },
+    {
+      "city": "Manas",
+      "region": "Jalal-Abad Region",
+      "latitude": 40.94498,
+      "longitude": 72.99313
+    },
+    {
+      "city": "Karakol",
+      "region": "Issyk-Kul",
+      "latitude": 42.49047,
+      "longitude": 78.39197
+    },
+    {
+      "city": "Tokmok",
+      "region": "Chuy Region",
+      "latitude": 42.84194,
+      "longitude": 75.30149
+    },
+    {
+      "city": "Uzgen",
+      "region": "Osh Region",
+      "latitude": 40.76994,
+      "longitude": 73.30068
+    }
+  ],
+  "KH": [
+    {
+      "city": "Phnom Penh",
+      "latitude": 11.55,
+      "longitude": 104.916667,
+      "region": ""
+    },
+    {
+      "city": "Takeo",
+      "region": "Takeo",
+      "latitude": 10.99081,
+      "longitude": 104.78498
+    },
+    {
+      "city": "Siem Reap",
+      "region": "Siem Reap",
+      "latitude": 13.36179,
+      "longitude": 103.86056
+    },
+    {
+      "city": "Battambang",
+      "region": "Battambang",
+      "latitude": 13.10271,
+      "longitude": 103.19822
+    },
+    {
+      "city": "Paoy Paet",
+      "region": "Banteay Meanchey",
+      "latitude": 13.65805,
+      "longitude": 102.56365
+    },
+    {
+      "city": "Dangkao",
+      "region": "Phnom Penh",
+      "latitude": 11.50881,
+      "longitude": 104.89144
+    }
+  ],
+  "KI": [
+    {
+      "city": "Tarawa",
+      "latitude": -0.8833333333333333,
+      "longitude": 169.533333,
+      "region": ""
+    }
+  ],
+  "KM": [
+    {
+      "city": "Moroni",
+      "latitude": -11.7,
+      "longitude": 43.233333,
+      "region": ""
+    },
+    {
+      "city": "Moutsamoudou",
+      "region": "Anjouan",
+      "latitude": -12.16672,
+      "longitude": 44.39944
+    },
+    {
+      "city": "Fomboni",
+      "region": "Mohéli",
+      "latitude": -12.28759,
+      "longitude": 43.74344
+    }
+  ],
+  "KN": [
+    {
+      "city": "Basseterre",
+      "latitude": 17.3,
+      "longitude": -62.716667,
+      "region": ""
+    }
+  ],
+  "KP": [
+    {
+      "city": "Pyongyang",
+      "latitude": 39.016666666666666,
+      "longitude": 125.75,
+      "region": ""
+    },
+    {
+      "city": "Hamhŭng",
+      "region": "South Hamgyong",
+      "latitude": 39.91833,
+      "longitude": 127.53639
+    },
+    {
+      "city": "Namp’o",
+      "region": "Nampo",
+      "latitude": 38.7375,
+      "longitude": 125.40778
+    },
+    {
+      "city": "Sunch’ŏn",
+      "region": "South Pyongan",
+      "latitude": 39.43167,
+      "longitude": 125.93278
+    },
+    {
+      "city": "Hŭngnam",
+      "region": "South Hamgyong",
+      "latitude": 39.84198,
+      "longitude": 127.63206
+    },
+    {
+      "city": "Kaesŏng",
+      "region": "Kaesong",
+      "latitude": 37.97083,
+      "longitude": 126.55444
+    }
+  ],
+  "KR": [
+    {
+      "city": "Seoul",
+      "latitude": 37.55,
+      "longitude": 126.983333,
+      "region": "Seoul"
+    },
+    {
+      "city": "Busan",
+      "region": "Busan",
+      "latitude": 35.10168,
+      "longitude": 129.03004
+    },
+    {
+      "city": "Incheon",
+      "region": "Incheon",
+      "latitude": 37.45646,
+      "longitude": 126.70515
+    },
+    {
+      "city": "Daegu",
+      "region": "Daegu",
+      "latitude": 35.87102,
+      "longitude": 128.60121
+    },
+    {
+      "city": "Daejeon",
+      "region": "Daejeon",
+      "latitude": 36.35022,
+      "longitude": 127.3848
+    },
+    {
+      "city": "Gwangju",
+      "region": "Gwangju",
+      "latitude": 35.15472,
+      "longitude": 126.91556
+    }
+  ],
+  "KW": [
+    {
+      "city": "Kuwait City",
+      "latitude": 29.366666666666667,
+      "longitude": 47.966667,
+      "region": ""
+    },
+    {
+      "city": "Al Aḩmadī",
+      "region": "Al Aḩmadī",
+      "latitude": 29.07694,
+      "longitude": 48.08389
+    },
+    {
+      "city": "Ḩawallī",
+      "region": "Hawalli",
+      "latitude": 29.33278,
+      "longitude": 48.02861
+    },
+    {
+      "city": "As Sālimīyah",
+      "region": "Hawalli",
+      "latitude": 29.33389,
+      "longitude": 48.07611
+    },
+    {
+      "city": "Şabāḩ as Sālim",
+      "region": "Mubārak al Kabīr",
+      "latitude": 29.25722,
+      "longitude": 48.05722
+    },
+    {
+      "city": "Al Farwānīyah",
+      "region": "Al Farwaniyah",
+      "latitude": 29.2775,
+      "longitude": 47.95861
+    }
+  ],
+  "KY": [
+    {
+      "city": "George Town",
+      "latitude": 19.3,
+      "longitude": -81.383333,
+      "region": ""
+    },
+    {
+      "city": "West Bay",
+      "region": "West Bay",
+      "latitude": 19.38197,
+      "longitude": -81.39281
+    }
+  ],
+  "KZ": [
+    {
+      "city": "Astana",
+      "latitude": 51.166666666666664,
+      "longitude": 71.416667,
+      "region": ""
+    },
+    {
+      "city": "Almaty",
+      "region": "Almaty",
+      "latitude": 43.25249,
+      "longitude": 76.9115
+    },
+    {
+      "city": "Shymkent",
+      "region": "Shymkent",
+      "latitude": 42.30988,
+      "longitude": 69.60042
+    },
+    {
+      "city": "Aktobe",
+      "region": "Aktobe",
+      "latitude": 50.27969,
+      "longitude": 57.20718
+    },
+    {
+      "city": "Karagandy",
+      "region": "Karaganda",
+      "latitude": 49.80187,
+      "longitude": 73.10211
+    },
+    {
+      "city": "Taraz",
+      "region": "Zhambyl",
+      "latitude": 42.89799,
+      "longitude": 71.37334
+    }
+  ],
+  "LA": [
+    {
+      "city": "Vientiane",
+      "latitude": 17.966666666666665,
+      "longitude": 102.6,
+      "region": ""
+    },
+    {
+      "city": "Savannakhet",
+      "region": "Savannakhet Province",
+      "latitude": 16.5703,
+      "longitude": 104.7622
+    },
+    {
+      "city": "Thakhèk",
+      "region": "Khammouane Province",
+      "latitude": 17.41027,
+      "longitude": 104.83068
+    },
+    {
+      "city": "Pakse",
+      "region": "Champasak Province",
+      "latitude": 15.12022,
+      "longitude": 105.79898
+    },
+    {
+      "city": "Ban Khoan",
+      "region": "Bokeo",
+      "latitude": 20.35008,
+      "longitude": 100.09022
+    },
+    {
+      "city": "Xam Nua",
+      "region": "Houaphan",
+      "latitude": 20.4164,
+      "longitude": 104.045
+    }
+  ],
+  "LB": [
+    {
+      "city": "Beirut",
+      "latitude": 33.86666666666667,
+      "longitude": 35.5,
+      "region": ""
+    },
+    {
+      "city": "Ra’s Bayrūt",
+      "region": "Beirut",
+      "latitude": 33.9,
+      "longitude": 35.48333
+    },
+    {
+      "city": "Tripoli",
+      "region": "North Lebanon",
+      "latitude": 34.43352,
+      "longitude": 35.84415
+    },
+    {
+      "city": "Sidon",
+      "region": "South Governorate",
+      "latitude": 33.55751,
+      "longitude": 35.37148
+    },
+    {
+      "city": "Tyre",
+      "region": "South Governorate",
+      "latitude": 33.27333,
+      "longitude": 35.19389
+    },
+    {
+      "city": "Aley",
+      "region": "Mount Lebanon",
+      "latitude": 33.80528,
+      "longitude": 35.6
+    }
+  ],
+  "LC": [
+    {
+      "city": "Castries",
+      "latitude": 14,
+      "longitude": -61,
+      "region": ""
+    },
+    {
+      "city": "Gros Islet",
+      "region": "Gros-Islet",
+      "latitude": 14.06667,
+      "longitude": -60.95
+    }
+  ],
+  "LI": [
+    {
+      "city": "Vaduz",
+      "latitude": 47.13333333333333,
+      "longitude": 9.516667,
+      "region": ""
+    }
+  ],
+  "LK": [
+    {
+      "city": "Colombo",
+      "latitude": 6.916666666666667,
+      "longitude": 79.833333,
+      "region": ""
+    },
+    {
+      "city": "Dehiwala-Mount Lavinia",
+      "region": "Western Province",
+      "latitude": 6.84019,
+      "longitude": 79.87116
+    },
+    {
+      "city": "Maharagama",
+      "region": "Western Province",
+      "latitude": 6.848,
+      "longitude": 79.9265
+    },
+    {
+      "city": "Jaffna",
+      "region": "Northern Province",
+      "latitude": 9.66845,
+      "longitude": 80.00742
+    },
+    {
+      "city": "Moratuwa",
+      "region": "Western Province",
+      "latitude": 6.773,
+      "longitude": 79.8816
+    },
+    {
+      "city": "Negombo",
+      "region": "Western Province",
+      "latitude": 7.2083,
+      "longitude": 79.8358
+    }
+  ],
+  "LR": [
+    {
+      "city": "Monrovia",
+      "latitude": 6.3,
+      "longitude": -10.8,
+      "region": ""
+    },
+    {
+      "city": "Gbarnga",
+      "region": "Bong County",
+      "latitude": 6.99543,
+      "longitude": -9.47122
+    },
+    {
+      "city": "Buchanan",
+      "region": "Grand Bassa County",
+      "latitude": 5.87693,
+      "longitude": -10.04964
+    },
+    {
+      "city": "Ganta",
+      "region": "Nimba",
+      "latitude": 7.235,
+      "longitude": -8.98444
+    },
+    {
+      "city": "Kakata",
+      "region": "Margibi County",
+      "latitude": 6.53104,
+      "longitude": -10.35368
+    },
+    {
+      "city": "Zwedru",
+      "region": "Grand Gedeh County",
+      "latitude": 6.06846,
+      "longitude": -8.13559
+    }
+  ],
+  "LS": [
+    {
+      "city": "Maseru",
+      "latitude": -29.316666666666666,
+      "longitude": 27.483333,
+      "region": ""
+    },
+    {
+      "city": "Maputsoe",
+      "region": "Leribe",
+      "latitude": -28.8866,
+      "longitude": 27.89915
+    },
+    {
+      "city": "Mohale's Hoek",
+      "region": "Mohale's Hoek District",
+      "latitude": -30.15137,
+      "longitude": 27.47691
+    },
+    {
+      "city": "Mafeteng",
+      "region": "Mafeteng District",
+      "latitude": -29.82299,
+      "longitude": 27.23744
+    },
+    {
+      "city": "Hlotse",
+      "region": "Leribe",
+      "latitude": -28.87185,
+      "longitude": 28.04501
+    },
+    {
+      "city": "Butha-Buthe",
+      "region": "Butha-Buthe",
+      "latitude": -28.76659,
+      "longitude": 28.24937
+    }
+  ],
+  "LT": [
+    {
+      "city": "Vilnius",
+      "latitude": 54.68333333333333,
+      "longitude": 25.316667,
+      "region": ""
+    },
+    {
+      "city": "Kaunas",
+      "region": "Kaunas",
+      "latitude": 54.90156,
+      "longitude": 23.90909
+    },
+    {
+      "city": "Klaipėda",
+      "region": "Klaipėda County",
+      "latitude": 55.7068,
+      "longitude": 21.13912
+    },
+    {
+      "city": "Šiauliai",
+      "region": "Siauliai",
+      "latitude": 55.93333,
+      "longitude": 23.31667
+    },
+    {
+      "city": "Panevėžys",
+      "region": "Panevėžys",
+      "latitude": 55.73186,
+      "longitude": 24.35983
+    },
+    {
+      "city": "Dainava (Kaunas)",
+      "region": "Kaunas",
+      "latitude": 54.91525,
+      "longitude": 23.96831
+    }
+  ],
+  "LU": [
+    {
+      "city": "Luxembourg",
+      "latitude": 49.6,
+      "longitude": 6.116667,
+      "region": ""
+    },
+    {
+      "city": "Esch-sur-Alzette",
+      "region": "Esch-sur-Alzette",
+      "latitude": 49.49583,
+      "longitude": 5.98056
+    },
+    {
+      "city": "Dudelange",
+      "region": "Esch-sur-Alzette",
+      "latitude": 49.48056,
+      "longitude": 6.0875
+    }
+  ],
+  "LV": [
+    {
+      "city": "Riga",
+      "latitude": 56.95,
+      "longitude": 24.1,
+      "region": ""
+    },
+    {
+      "city": "Daugavpils",
+      "region": "Daugavpils",
+      "latitude": 55.88333,
+      "longitude": 26.53333
+    },
+    {
+      "city": "Liepāja",
+      "region": "Liepaja",
+      "latitude": 56.50474,
+      "longitude": 21.01085
+    },
+    {
+      "city": "Jelgava",
+      "region": "Jelgava",
+      "latitude": 56.65,
+      "longitude": 23.71278
+    },
+    {
+      "city": "Jūrmala",
+      "region": "Jūrmala",
+      "latitude": 56.968,
+      "longitude": 23.77038
+    },
+    {
+      "city": "Ventspils",
+      "region": "Ventspils",
+      "latitude": 57.39485,
+      "longitude": 21.56121
+    }
+  ],
+  "LY": [
+    {
+      "city": "Tripoli",
+      "latitude": 32.88333333333333,
+      "longitude": 13.166667,
+      "region": ""
+    },
+    {
+      "city": "Benghazi",
+      "region": "Banghazi",
+      "latitude": 32.11486,
+      "longitude": 20.06859
+    },
+    {
+      "city": "Misratah",
+      "region": "Misratah",
+      "latitude": 32.37535,
+      "longitude": 15.09254
+    },
+    {
+      "city": "Zliten",
+      "region": "Misratah",
+      "latitude": 32.46739,
+      "longitude": 14.56874
+    },
+    {
+      "city": "Al Khums",
+      "region": "Al Marqab",
+      "latitude": 32.64861,
+      "longitude": 14.26191
+    },
+    {
+      "city": "Az Zāwīyah",
+      "region": "Az Zawiyah",
+      "latitude": 32.7571,
+      "longitude": 12.72764
+    }
+  ],
+  "MA": [
+    {
+      "city": "Rabat",
+      "latitude": 34.016666666666666,
+      "longitude": -6.816667,
+      "region": ""
+    },
+    {
+      "city": "Casablanca",
+      "region": "Casablanca-Settat",
+      "latitude": 33.58831,
+      "longitude": -7.61138
+    },
+    {
+      "city": "Fes",
+      "region": "Fes-Meknes",
+      "latitude": 34.03313,
+      "longitude": -5.00028
+    },
+    {
+      "city": "Tangier",
+      "region": "Tanger-Tetouan-Al Hoceima",
+      "latitude": 35.76727,
+      "longitude": -5.79975
+    },
+    {
+      "city": "Marrakesh",
+      "region": "Marrakesh-Safi",
+      "latitude": 31.63416,
+      "longitude": -7.99994
+    },
+    {
+      "city": "Salé",
+      "region": "Rabat-Salé-Kénitra",
+      "latitude": 34.0531,
+      "longitude": -6.79846
+    }
+  ],
+  "MC": [
+    {
+      "city": "Monaco",
+      "latitude": 43.733333333333334,
+      "longitude": 7.416667,
+      "region": ""
+    },
+    {
+      "city": "Monte-Carlo",
+      "region": "Municipality of Monaco",
+      "latitude": 43.73976,
+      "longitude": 7.42732
+    }
+  ],
+  "MD": [
+    {
+      "city": "Chisinau",
+      "latitude": 47,
+      "longitude": 28.85,
+      "region": ""
+    },
+    {
+      "city": "Tiraspol",
+      "region": "Transnistria",
+      "latitude": 46.84275,
+      "longitude": 29.6284
+    },
+    {
+      "city": "Bălţi",
+      "region": "Bălţi",
+      "latitude": 47.76291,
+      "longitude": 27.92854
+    },
+    {
+      "city": "Bender",
+      "region": "Bender Municipality",
+      "latitude": 46.83158,
+      "longitude": 29.47671
+    },
+    {
+      "city": "Rîbniţa",
+      "region": "Transnistria",
+      "latitude": 47.76817,
+      "longitude": 29.01
+    },
+    {
+      "city": "Cahul",
+      "region": "Cahul",
+      "latitude": 45.90456,
+      "longitude": 28.19516
+    }
+  ],
+  "ME": [
+    {
+      "city": "Podgorica",
+      "latitude": 42.43333333333333,
+      "longitude": 19.266667,
+      "region": ""
+    },
+    {
+      "city": "Nikšić",
+      "region": "Opština Nikšić",
+      "latitude": 42.7731,
+      "longitude": 18.94446
+    },
+    {
+      "city": "Herceg Novi",
+      "region": "Herceg Novi",
+      "latitude": 42.45306,
+      "longitude": 18.5375
+    },
+    {
+      "city": "Pljevlja",
+      "region": "Pljevlja",
+      "latitude": 43.3567,
+      "longitude": 19.35843
+    },
+    {
+      "city": "Budva",
+      "region": "Budva",
+      "latitude": 42.28721,
+      "longitude": 18.83922
+    },
+    {
+      "city": "Bar",
+      "region": "Bar",
+      "latitude": 42.0937,
+      "longitude": 19.09841
+    }
+  ],
+  "MF": [
+    {
+      "city": "Marigot",
+      "latitude": 18.0731,
+      "longitude": -63.0822,
+      "region": ""
+    }
+  ],
+  "MG": [
+    {
+      "city": "Antananarivo",
+      "latitude": -18.916666666666668,
+      "longitude": 47.516667,
+      "region": ""
+    },
+    {
+      "city": "Toamasina",
+      "region": "Atsinanana",
+      "latitude": -18.1492,
+      "longitude": 49.40234
+    },
+    {
+      "city": "Antsirabe",
+      "region": "Vakinankaratra",
+      "latitude": -19.86586,
+      "longitude": 47.03333
+    },
+    {
+      "city": "Mahajanga",
+      "region": "Boeny",
+      "latitude": -15.71667,
+      "longitude": 46.31667
+    },
+    {
+      "city": "Fianarantsoa",
+      "region": "Upper Matsiatra",
+      "latitude": -21.45267,
+      "longitude": 47.08569
+    },
+    {
+      "city": "Toliara",
+      "region": "Atsimo-Andrefana",
+      "latitude": -23.35,
+      "longitude": 43.66667
+    }
+  ],
+  "MH": [
+    {
+      "city": "Majuro",
+      "latitude": 7.1,
+      "longitude": 171.383333,
+      "region": ""
+    },
+    {
+      "city": "Dalap-Uliga-Dorrit",
+      "region": "Majuro Atoll",
+      "latitude": 7.087,
+      "longitude": 171.377
+    }
+  ],
+  "MK": [
+    {
+      "city": "Skopje",
+      "latitude": 42,
+      "longitude": 21.433333,
+      "region": ""
+    },
+    {
+      "city": "Kumanovo",
+      "region": "Kumanovo",
+      "latitude": 42.13279,
+      "longitude": 21.71585
+    },
+    {
+      "city": "Prilep",
+      "region": "Prilep",
+      "latitude": 41.34558,
+      "longitude": 21.5537
+    },
+    {
+      "city": "Bitola",
+      "region": "Bitola",
+      "latitude": 41.03226,
+      "longitude": 21.33553
+    },
+    {
+      "city": "Čair",
+      "region": "Grad Skopje",
+      "latitude": 42.01528,
+      "longitude": 21.44111
+    },
+    {
+      "city": "Tetovo",
+      "region": "Tetovo",
+      "latitude": 42.00989,
+      "longitude": 20.97138
+    }
+  ],
+  "ML": [
+    {
+      "city": "Bamako",
+      "latitude": 12.65,
+      "longitude": -8,
+      "region": ""
+    },
+    {
+      "city": "Sikasso",
+      "region": "Sikasso",
+      "latitude": 11.31755,
+      "longitude": -5.66654
+    },
+    {
+      "city": "Koutiala",
+      "region": "Sikasso",
+      "latitude": 12.38723,
+      "longitude": -5.46507
+    },
+    {
+      "city": "Ségou",
+      "region": "Ségou",
+      "latitude": 13.44032,
+      "longitude": -6.25947
+    },
+    {
+      "city": "Kayes",
+      "region": "Kayes",
+      "latitude": 14.44776,
+      "longitude": -11.44393
+    },
+    {
+      "city": "Mopti",
+      "region": "Mopti",
+      "latitude": 14.4843,
+      "longitude": -4.18296
+    }
+  ],
+  "MM": [
+    {
+      "city": "Rangoon",
+      "latitude": 16.8,
+      "longitude": 96.15,
+      "region": ""
+    },
+    {
+      "city": "Yangon",
+      "region": "Yangon",
+      "latitude": 16.80528,
+      "longitude": 96.15611
+    },
+    {
+      "city": "Mandalay",
+      "region": "Mandalay Region",
+      "latitude": 21.97473,
+      "longitude": 96.08359
+    },
+    {
+      "city": "Nay Pyi Taw",
+      "region": "Nay Pyi Taw",
+      "latitude": 19.745,
+      "longitude": 96.12972
+    },
+    {
+      "city": "Hlaingthaya",
+      "region": "Yangon",
+      "latitude": 16.85,
+      "longitude": 96.06667
+    },
+    {
+      "city": "Mawlamyine",
+      "region": "Mon",
+      "latitude": 16.49051,
+      "longitude": 97.62825
+    }
+  ],
+  "MN": [
+    {
+      "city": "Ulaanbaatar",
+      "latitude": 47.916666666666664,
+      "longitude": 106.916667,
+      "region": ""
+    },
+    {
+      "city": "Ulan Bator",
+      "region": "Ulaanbaatar",
+      "latitude": 47.90771,
+      "longitude": 106.88324
+    },
+    {
+      "city": "Erdenet",
+      "region": "Orhon",
+      "latitude": 49.03333,
+      "longitude": 104.08333
+    },
+    {
+      "city": "Darhan",
+      "region": "Darhan Uul",
+      "latitude": 49.48667,
+      "longitude": 105.92278
+    },
+    {
+      "city": "Choibalsan",
+      "region": "East Aimak",
+      "latitude": 48.07257,
+      "longitude": 114.53264
+    },
+    {
+      "city": "Nalayh",
+      "region": "Ulaanbaatar",
+      "latitude": 47.76667,
+      "longitude": 107.28333
+    }
+  ],
+  "MO": [
+    {
+      "city": "Macao",
+      "latitude": 22.2111,
+      "longitude": 113.5394,
+      "region": ""
+    },
+    {
+      "city": "Macau",
+      "region": "",
+      "latitude": 22.20056,
+      "longitude": 113.54611
+    },
+    {
+      "city": "Taipa",
+      "region": "Our Lady of Carmo",
+      "latitude": 22.15583,
+      "longitude": 113.55694
+    },
+    {
+      "city": "Sé",
+      "region": "",
+      "latitude": 22.19089,
+      "longitude": 113.54733
+    },
+    {
+      "city": "Luhuan",
+      "region": "Saint Francis Xavier",
+      "latitude": 22.11806,
+      "longitude": 113.55194
+    },
+    {
+      "city": "Zhuojiacun",
+      "region": "Our Lady of Carmo",
+      "latitude": 22.16139,
+      "longitude": 113.55639
+    }
+  ],
+  "MP": [
+    {
+      "city": "Saipan",
+      "latitude": 15.2,
+      "longitude": 145.75,
+      "region": ""
+    }
+  ],
+  "MQ": [
+    {
+      "city": "Fort-de-France",
+      "latitude": 14.666667,
+      "longitude": -61,
+      "region": ""
+    },
+    {
+      "city": "Le Lamentin",
+      "region": "Martinique",
+      "latitude": 14.61341,
+      "longitude": -60.99964
+    },
+    {
+      "city": "Le Robert",
+      "region": "Martinique",
+      "latitude": 14.67751,
+      "longitude": -60.94228
+    },
+    {
+      "city": "Sainte-Marie",
+      "region": "Martinique",
+      "latitude": 14.78352,
+      "longitude": -60.99227
+    },
+    {
+      "city": "Le François",
+      "region": "Martinique",
+      "latitude": 14.61513,
+      "longitude": -60.90311
+    },
+    {
+      "city": "Ducos",
+      "region": "Martinique",
+      "latitude": 14.57529,
+      "longitude": -60.97453
+    }
+  ],
+  "MR": [
+    {
+      "city": "Nouakchott",
+      "latitude": 18.066666666666666,
+      "longitude": -15.966667,
+      "region": ""
+    },
+    {
+      "city": "Nouadhibou",
+      "region": "Dakhlet Nouadhibou",
+      "latitude": 20.94188,
+      "longitude": -17.03842
+    },
+    {
+      "city": "Kiffa",
+      "region": "Assaba",
+      "latitude": 16.62073,
+      "longitude": -11.40208
+    },
+    {
+      "city": "Dar Naim",
+      "region": "Nouakchott North",
+      "latitude": 18.10808,
+      "longitude": -15.92666
+    },
+    {
+      "city": "Néma",
+      "region": "Hodh Ech Chargi",
+      "latitude": 16.61702,
+      "longitude": -7.25649
+    },
+    {
+      "city": "Mbera",
+      "region": "Hodh Ech Chargi",
+      "latitude": 15.85615,
+      "longitude": -5.79067
+    }
+  ],
+  "MS": [
+    {
+      "city": "Plymouth",
+      "latitude": 16.7,
+      "longitude": -62.216667,
+      "region": ""
+    },
+    {
+      "city": "Brades",
+      "region": "Saint Peter",
+      "latitude": 16.79183,
+      "longitude": -62.21058
+    }
+  ],
+  "MT": [
+    {
+      "city": "Valletta",
+      "latitude": 35.88333333333333,
+      "longitude": 14.5,
+      "region": ""
+    },
+    {
+      "city": "San Pawl il-Baħar",
+      "region": "Saint Paul’s Bay",
+      "latitude": 35.95064,
+      "longitude": 14.41561
+    },
+    {
+      "city": "Birkirkara",
+      "region": "Birkirkara",
+      "latitude": 35.89706,
+      "longitude": 14.46115
+    },
+    {
+      "city": "Mosta",
+      "region": "Il-Mosta",
+      "latitude": 35.90942,
+      "longitude": 14.42566
+    },
+    {
+      "city": "Sliema",
+      "region": "Tas-Sliema",
+      "latitude": 35.91247,
+      "longitude": 14.50175
+    },
+    {
+      "city": "Qormi",
+      "region": "Qormi",
+      "latitude": 35.87601,
+      "longitude": 14.472
+    }
+  ],
+  "MU": [
+    {
+      "city": "Port Louis",
+      "latitude": -20.15,
+      "longitude": 57.483333,
+      "region": ""
+    },
+    {
+      "city": "Vacoas",
+      "region": "Plaines Wilhems",
+      "latitude": -20.29806,
+      "longitude": 57.47833
+    },
+    {
+      "city": "Beau Bassin-Rose Hill",
+      "region": "Plaines Wilhems",
+      "latitude": -20.23325,
+      "longitude": 57.46609
+    },
+    {
+      "city": "Curepipe",
+      "region": "Plaines Wilhems",
+      "latitude": -20.31628,
+      "longitude": 57.52594
+    },
+    {
+      "city": "Quatre Bornes",
+      "region": "Plaines Wilhems",
+      "latitude": -20.26381,
+      "longitude": 57.4791
+    },
+    {
+      "city": "Triolet",
+      "region": "Pamplemousses",
+      "latitude": -20.0576,
+      "longitude": 57.55025
+    }
+  ],
+  "MV": [
+    {
+      "city": "Male",
+      "latitude": 4.166666666666667,
+      "longitude": 73.5,
+      "region": ""
+    }
+  ],
+  "MW": [
+    {
+      "city": "Lilongwe",
+      "latitude": -13.966666666666667,
+      "longitude": 33.783333,
+      "region": ""
+    },
+    {
+      "city": "Blantyre",
+      "region": "Southern Region",
+      "latitude": -15.78499,
+      "longitude": 35.00854
+    },
+    {
+      "city": "Mzuzu",
+      "region": "Northern Region",
+      "latitude": -11.46556,
+      "longitude": 34.02071
+    },
+    {
+      "city": "Zomba",
+      "region": "Southern Region",
+      "latitude": -15.38596,
+      "longitude": 35.3188
+    },
+    {
+      "city": "Karonga",
+      "region": "Northern Region",
+      "latitude": -9.93333,
+      "longitude": 33.93333
+    },
+    {
+      "city": "Kasungu",
+      "region": "Central Region",
+      "latitude": -13.03333,
+      "longitude": 33.48333
+    }
+  ],
+  "MX": [
+    {
+      "city": "Mexico City",
+      "latitude": 19.433333333333334,
+      "longitude": -99.133333,
+      "region": "Mexico City"
+    },
+    {
+      "city": "Tijuana",
+      "region": "Baja California",
+      "latitude": 32.5027,
+      "longitude": -117.00371
+    },
+    {
+      "city": "Iztapalapa",
+      "region": "Mexico City",
+      "latitude": 19.35529,
+      "longitude": -99.06224
+    },
+    {
+      "city": "Puebla",
+      "region": "Puebla",
+      "latitude": 19.04778,
+      "longitude": -98.20723
+    },
+    {
+      "city": "Ecatepec de Morelos",
+      "region": "México",
+      "latitude": 19.60006,
+      "longitude": -99.04855
+    },
+    {
+      "city": "Santiago de Querétaro",
+      "region": "Querétaro",
+      "latitude": 20.58806,
+      "longitude": -100.38806
+    }
+  ],
+  "MY": [
+    {
+      "city": "Kuala Lumpur",
+      "latitude": 3.1666666666666665,
+      "longitude": 101.7,
+      "region": ""
+    },
+    {
+      "city": "Johor Bahru",
+      "region": "Johor",
+      "latitude": 1.4655,
+      "longitude": 103.7578
+    },
+    {
+      "city": "Kampung Baru Subang",
+      "region": "Selangor",
+      "latitude": 3.15,
+      "longitude": 101.53333
+    },
+    {
+      "city": "Petaling Jaya",
+      "region": "Selangor",
+      "latitude": 3.10726,
+      "longitude": 101.60671
+    },
+    {
+      "city": "Ipoh",
+      "region": "Perak",
+      "latitude": 4.5841,
+      "longitude": 101.0829
+    },
+    {
+      "city": "Shah Alam",
+      "region": "Selangor",
+      "latitude": 3.08507,
+      "longitude": 101.53281
+    }
+  ],
+  "MZ": [
+    {
+      "city": "Maputo",
+      "latitude": -25.95,
+      "longitude": 32.583333,
+      "region": ""
+    },
+    {
+      "city": "Matola",
+      "region": "Maputo Province",
+      "latitude": -25.96222,
+      "longitude": 32.45889
+    },
+    {
+      "city": "Nampula",
+      "region": "Nampula",
+      "latitude": -15.11646,
+      "longitude": 39.2666
+    },
+    {
+      "city": "Beira",
+      "region": "Sofala",
+      "latitude": -19.84361,
+      "longitude": 34.83889
+    },
+    {
+      "city": "Chimoio",
+      "region": "Manica",
+      "latitude": -19.11639,
+      "longitude": 33.48333
+    },
+    {
+      "city": "Tete",
+      "region": "Tete",
+      "latitude": -16.15639,
+      "longitude": 33.58667
+    }
+  ],
+  "NA": [
+    {
+      "city": "Windhoek",
+      "latitude": -22.566666666666666,
+      "longitude": 17.083333,
+      "region": ""
+    },
+    {
+      "city": "Rundu",
+      "region": "Kavango East",
+      "latitude": -17.91796,
+      "longitude": 19.77314
+    },
+    {
+      "city": "Walvis Bay",
+      "region": "Erongo Region",
+      "latitude": -22.9575,
+      "longitude": 14.50528
+    },
+    {
+      "city": "Swakopmund",
+      "region": "Erongo Region",
+      "latitude": -22.67842,
+      "longitude": 14.52663
+    },
+    {
+      "city": "Oshakati",
+      "region": "Oshana Region",
+      "latitude": -17.78833,
+      "longitude": 15.70436
+    },
+    {
+      "city": "Rehoboth",
+      "region": "Hardap Region",
+      "latitude": -23.317,
+      "longitude": 17.09
+    }
+  ],
+  "NC": [
+    {
+      "city": "Noumea",
+      "latitude": -22.266666666666666,
+      "longitude": 166.45,
+      "region": ""
+    },
+    {
+      "city": "Nouméa",
+      "region": "South Province",
+      "latitude": -22.27407,
+      "longitude": 166.44884
+    },
+    {
+      "city": "Mont-Dore",
+      "region": "South Province",
+      "latitude": -22.26257,
+      "longitude": 166.56621
+    },
+    {
+      "city": "Dumbéa",
+      "region": "South Province",
+      "latitude": -22.15757,
+      "longitude": 166.4572
+    }
+  ],
+  "NE": [
+    {
+      "city": "Niamey",
+      "latitude": 13.516666666666667,
+      "longitude": 2.116667,
+      "region": ""
+    },
+    {
+      "city": "Maradi",
+      "region": "Maradi Region",
+      "latitude": 13.5,
+      "longitude": 7.10174
+    },
+    {
+      "city": "Zinder",
+      "region": "Zinder Region",
+      "latitude": 13.80716,
+      "longitude": 8.9881
+    },
+    {
+      "city": "Tahoua",
+      "region": "Tahoua Region",
+      "latitude": 14.8888,
+      "longitude": 5.2692
+    },
+    {
+      "city": "Agadez",
+      "region": "Agadez",
+      "latitude": 16.97333,
+      "longitude": 7.99111
+    },
+    {
+      "city": "Arlit",
+      "region": "Agadez",
+      "latitude": 18.73694,
+      "longitude": 7.38528
+    }
+  ],
+  "NF": [
+    {
+      "city": "Kingston",
+      "latitude": -29.05,
+      "longitude": 167.966667,
+      "region": ""
+    }
+  ],
+  "NG": [
+    {
+      "city": "Abuja",
+      "latitude": 9.083333333333334,
+      "longitude": 7.533333,
+      "region": "Federal Capital Territory"
+    },
+    {
+      "city": "Lagos",
+      "region": "Lagos",
+      "latitude": 6.45407,
+      "longitude": 3.39467
+    },
+    {
+      "city": "Kano",
+      "region": "Kano State",
+      "latitude": 12.00012,
+      "longitude": 8.51672
+    },
+    {
+      "city": "Ibadan",
+      "region": "Oyo State",
+      "latitude": 7.37756,
+      "longitude": 3.90591
+    },
+    {
+      "city": "Port Harcourt",
+      "region": "Rivers State",
+      "latitude": 4.77742,
+      "longitude": 7.0134
+    },
+    {
+      "city": "Kaduna",
+      "region": "Kaduna State",
+      "latitude": 10.52641,
+      "longitude": 7.43879
+    }
+  ],
+  "NI": [
+    {
+      "city": "Managua",
+      "latitude": 12.133333333333333,
+      "longitude": -86.25,
+      "region": ""
+    },
+    {
+      "city": "León",
+      "region": "León Department",
+      "latitude": 12.43527,
+      "longitude": -86.87862
+    },
+    {
+      "city": "Masaya",
+      "region": "Masaya Department",
+      "latitude": 11.97316,
+      "longitude": -86.09587
+    },
+    {
+      "city": "Chinandega",
+      "region": "Chinandega Department",
+      "latitude": 12.62951,
+      "longitude": -87.13133
+    },
+    {
+      "city": "Matagalpa",
+      "region": "Matagalpa Department",
+      "latitude": 12.92795,
+      "longitude": -85.91906
+    },
+    {
+      "city": "Estelí",
+      "region": "Estelí Department",
+      "latitude": 13.09291,
+      "longitude": -86.35589
+    }
+  ],
+  "NL": [
+    {
+      "city": "Amsterdam",
+      "latitude": 52.35,
+      "longitude": 4.916667,
+      "region": ""
+    },
+    {
+      "city": "Rotterdam",
+      "region": "South Holland",
+      "latitude": 51.9225,
+      "longitude": 4.47917
+    },
+    {
+      "city": "The Hague",
+      "region": "South Holland",
+      "latitude": 52.07667,
+      "longitude": 4.29861
+    },
+    {
+      "city": "Utrecht",
+      "region": "Utrecht",
+      "latitude": 52.09083,
+      "longitude": 5.12222
+    },
+    {
+      "city": "Groningen",
+      "region": "Groningen",
+      "latitude": 53.21917,
+      "longitude": 6.56667
+    },
+    {
+      "city": "Eindhoven",
+      "region": "North Brabant",
+      "latitude": 51.44083,
+      "longitude": 5.47778
+    }
+  ],
+  "NO": [
+    {
+      "city": "Oslo",
+      "latitude": 59.916666666666664,
+      "longitude": 10.75,
+      "region": ""
+    },
+    {
+      "city": "Bergen",
+      "region": "Vestland",
+      "latitude": 60.39299,
+      "longitude": 5.32415
+    },
+    {
+      "city": "Trondheim",
+      "region": "Trøndelag",
+      "latitude": 63.43049,
+      "longitude": 10.39506
+    },
+    {
+      "city": "Stavanger",
+      "region": "Rogaland",
+      "latitude": 58.97005,
+      "longitude": 5.73332
+    },
+    {
+      "city": "Kristiansand",
+      "region": "Agder",
+      "latitude": 58.14671,
+      "longitude": 7.9956
+    },
+    {
+      "city": "Drammen",
+      "region": "Buskerud",
+      "latitude": 59.74389,
+      "longitude": 10.20449
+    }
+  ],
+  "NP": [
+    {
+      "city": "Kathmandu",
+      "latitude": 27.716666666666665,
+      "longitude": 85.316667,
+      "region": ""
+    },
+    {
+      "city": "Pokhara",
+      "region": "Gandaki Pradesh",
+      "latitude": 28.26689,
+      "longitude": 83.96851
+    },
+    {
+      "city": "Bharatpur",
+      "region": "Bagmati Province",
+      "latitude": 27.68027,
+      "longitude": 84.43647
+    },
+    {
+      "city": "Pātan",
+      "region": "Bagmati Province",
+      "latitude": 27.67658,
+      "longitude": 85.31417
+    },
+    {
+      "city": "Birgañj",
+      "region": "Madhesh",
+      "latitude": 27.01736,
+      "longitude": 84.88047
+    },
+    {
+      "city": "Biratnagar",
+      "region": "Koshi",
+      "latitude": 26.45505,
+      "longitude": 87.27007
+    }
+  ],
+  "NR": [
+    {
+      "city": "Yaren",
+      "latitude": -0.5477,
+      "longitude": 166.920867,
+      "region": ""
+    }
+  ],
+  "NU": [
+    {
+      "city": "Alofi",
+      "latitude": -19.016666666666666,
+      "longitude": -169.916667,
+      "region": ""
+    }
+  ],
+  "NZ": [
+    {
+      "city": "Wellington",
+      "latitude": -41.3,
+      "longitude": 174.783333,
+      "region": "Wellington Region"
+    },
+    {
+      "city": "Auckland",
+      "region": "Auckland",
+      "latitude": -36.84853,
+      "longitude": 174.76349
+    },
+    {
+      "city": "Christchurch",
+      "region": "Canterbury",
+      "latitude": -43.53333,
+      "longitude": 172.63333
+    },
+    {
+      "city": "Manukau City",
+      "region": "Auckland",
+      "latitude": -36.99282,
+      "longitude": 174.87986
+    },
+    {
+      "city": "North Shore",
+      "region": "Auckland",
+      "latitude": -36.8,
+      "longitude": 174.75
+    },
+    {
+      "city": "Hamilton",
+      "region": "Waikato Region",
+      "latitude": -37.78333,
+      "longitude": 175.28333
+    }
+  ],
+  "OM": [
+    {
+      "city": "Muscat",
+      "latitude": 23.616666666666667,
+      "longitude": 58.583333,
+      "region": ""
+    },
+    {
+      "city": "Seeb",
+      "region": "Muscat",
+      "latitude": 23.67027,
+      "longitude": 58.18911
+    },
+    {
+      "city": "Bawshar",
+      "region": "Muscat",
+      "latitude": 23.57769,
+      "longitude": 58.39982
+    },
+    {
+      "city": "‘Ibrī",
+      "region": "Ad Dhahirah",
+      "latitude": 23.22573,
+      "longitude": 56.51572
+    },
+    {
+      "city": "Şalālah",
+      "region": "Dhofar",
+      "latitude": 17.01505,
+      "longitude": 54.09237
+    },
+    {
+      "city": "Şaḩam",
+      "region": "Al Batinah North",
+      "latitude": 24.17222,
+      "longitude": 56.88861
+    }
+  ],
+  "PA": [
+    {
+      "city": "Panama City",
+      "latitude": 8.966666666666667,
+      "longitude": -79.533333,
+      "region": ""
+    },
+    {
+      "city": "San Miguelito",
+      "region": "Panamá",
+      "latitude": 9.05032,
+      "longitude": -79.47068
+    },
+    {
+      "city": "Juan Díaz",
+      "region": "Panamá",
+      "latitude": 9.04059,
+      "longitude": -79.44083
+    },
+    {
+      "city": "David",
+      "region": "Chiriquí Province",
+      "latitude": 8.42729,
+      "longitude": -82.43085
+    },
+    {
+      "city": "Colón",
+      "region": "Colón",
+      "latitude": 9.36025,
+      "longitude": -79.90019
+    },
+    {
+      "city": "Arraiján",
+      "region": "Panamá Oeste Province",
+      "latitude": 8.9398,
+      "longitude": -79.64038
+    }
+  ],
+  "PE": [
+    {
+      "city": "Lima",
+      "latitude": -12.05,
+      "longitude": -77.05,
+      "region": ""
+    },
+    {
+      "city": "Callao",
+      "region": "Callao",
+      "latitude": -12.05162,
+      "longitude": -77.13452
+    },
+    {
+      "city": "Arequipa",
+      "region": "Arequipa",
+      "latitude": -16.39899,
+      "longitude": -71.53747
+    },
+    {
+      "city": "Trujillo",
+      "region": "La Libertad",
+      "latitude": -8.11599,
+      "longitude": -79.02998
+    },
+    {
+      "city": "Piura",
+      "region": "Piura",
+      "latitude": -5.18192,
+      "longitude": -80.65715
+    },
+    {
+      "city": "Chiclayo",
+      "region": "Lambayeque",
+      "latitude": -6.77008,
+      "longitude": -79.85495
+    }
+  ],
+  "PF": [
+    {
+      "city": "Papeete",
+      "latitude": -17.533333333333335,
+      "longitude": -149.566667,
+      "region": ""
+    },
+    {
+      "city": "Faaa",
+      "region": "Îles du Vent",
+      "latitude": -17.55933,
+      "longitude": -149.60352
+    },
+    {
+      "city": "Punaauia",
+      "region": "Îles du Vent",
+      "latitude": -17.63333,
+      "longitude": -149.6
+    }
+  ],
+  "PG": [
+    {
+      "city": "Port Moresby",
+      "latitude": -9.45,
+      "longitude": 147.183333,
+      "region": ""
+    },
+    {
+      "city": "Lae",
+      "region": "Morobe Province",
+      "latitude": -6.72333,
+      "longitude": 146.99611
+    },
+    {
+      "city": "Arawa",
+      "region": "Bougainville",
+      "latitude": -6.22977,
+      "longitude": 155.56598
+    },
+    {
+      "city": "Mount Hagen",
+      "region": "Western Highlands Province",
+      "latitude": -5.85746,
+      "longitude": 144.23058
+    },
+    {
+      "city": "Popondetta",
+      "region": "Oro Province",
+      "latitude": -8.76536,
+      "longitude": 148.23252
+    },
+    {
+      "city": "Madang",
+      "region": "Madang Province",
+      "latitude": -5.22152,
+      "longitude": 145.78695
+    }
+  ],
+  "PH": [
+    {
+      "city": "Manila",
+      "latitude": 14.6,
+      "longitude": 120.966667,
+      "region": ""
+    },
+    {
+      "city": "Quezon City",
+      "region": "National Capital Region",
+      "latitude": 14.6488,
+      "longitude": 121.0509
+    },
+    {
+      "city": "Davao",
+      "region": "Davao Region",
+      "latitude": 7.07306,
+      "longitude": 125.61278
+    },
+    {
+      "city": "Caloocan",
+      "region": "National Capital Region",
+      "latitude": 14.64953,
+      "longitude": 120.96788
+    },
+    {
+      "city": "Taguig",
+      "region": "National Capital Region",
+      "latitude": 14.5243,
+      "longitude": 121.0792
+    },
+    {
+      "city": "Budta",
+      "region": "Autonomous Region in Muslim Mindanao",
+      "latitude": 7.20417,
+      "longitude": 124.43972
+    }
+  ],
+  "PK": [
+    {
+      "city": "Islamabad",
+      "latitude": 33.68333333333333,
+      "longitude": 73.05,
+      "region": ""
+    },
+    {
+      "city": "Lahore",
+      "region": "Punjab",
+      "latitude": 31.558,
+      "longitude": 74.35071
+    },
+    {
+      "city": "Karachi",
+      "region": "Sindh",
+      "latitude": 24.8608,
+      "longitude": 67.0104
+    },
+    {
+      "city": "Peshawar",
+      "region": "Khyber Pakhtunkhwa",
+      "latitude": 34.008,
+      "longitude": 71.57849
+    },
+    {
+      "city": "Faisalabad",
+      "region": "Punjab",
+      "latitude": 31.41554,
+      "longitude": 73.08969
+    },
+    {
+      "city": "Rawalpindi",
+      "region": "Punjab",
+      "latitude": 33.59733,
+      "longitude": 73.0479
+    }
+  ],
+  "PL": [
+    {
+      "city": "Warsaw",
+      "latitude": 52.25,
+      "longitude": 21,
+      "region": ""
+    },
+    {
+      "city": "Kraków",
+      "region": "Lesser Poland",
+      "latitude": 50.06143,
+      "longitude": 19.93658
+    },
+    {
+      "city": "Wrocław",
+      "region": "Lower Silesia",
+      "latitude": 51.10286,
+      "longitude": 17.03006
+    },
+    {
+      "city": "Łódź",
+      "region": "Łódź Voivodeship",
+      "latitude": 51.77058,
+      "longitude": 19.47395
+    },
+    {
+      "city": "Poznań",
+      "region": "Greater Poland",
+      "latitude": 52.40692,
+      "longitude": 16.92993
+    },
+    {
+      "city": "Gdańsk",
+      "region": "Pomerania",
+      "latitude": 54.35227,
+      "longitude": 18.64912
+    }
+  ],
+  "PM": [
+    {
+      "city": "Saint-Pierre",
+      "latitude": 46.766666666666666,
+      "longitude": -56.183333,
+      "region": ""
+    }
+  ],
+  "PN": [
+    {
+      "city": "Adamstown",
+      "latitude": -25.066666666666666,
+      "longitude": -130.083333,
+      "region": ""
+    }
+  ],
+  "PR": [
+    {
+      "city": "San Juan",
+      "latitude": 18.466666666666665,
+      "longitude": -66.116667,
+      "region": ""
+    },
+    {
+      "city": "Bayamón",
+      "region": "Bayamón",
+      "latitude": 18.39856,
+      "longitude": -66.15572
+    },
+    {
+      "city": "Carolina",
+      "region": "Carolina",
+      "latitude": 18.38078,
+      "longitude": -65.95739
+    },
+    {
+      "city": "Ponce",
+      "region": "Ponce",
+      "latitude": 18.01031,
+      "longitude": -66.62398
+    },
+    {
+      "city": "Arecibo",
+      "region": "Arecibo",
+      "latitude": 18.47245,
+      "longitude": -66.71573
+    },
+    {
+      "city": "Caguas",
+      "region": "Caguas",
+      "latitude": 18.23412,
+      "longitude": -66.0485
+    }
+  ],
+  "PS": [
+    {
+      "city": "Jerusalem",
+      "latitude": 31.766666666666666,
+      "longitude": 35.233333,
+      "region": ""
+    },
+    {
+      "city": "East Jerusalem",
+      "region": "West Bank",
+      "latitude": 31.78336,
+      "longitude": 35.23388
+    },
+    {
+      "city": "Gaza",
+      "region": "Gaza Strip",
+      "latitude": 31.50161,
+      "longitude": 34.46672
+    },
+    {
+      "city": "Khān Yūnis",
+      "region": "Gaza Strip",
+      "latitude": 31.34018,
+      "longitude": 34.30627
+    },
+    {
+      "city": "Jabālyā",
+      "region": "Gaza Strip",
+      "latitude": 31.5272,
+      "longitude": 34.48347
+    },
+    {
+      "city": "Hebron",
+      "region": "West Bank",
+      "latitude": 31.52935,
+      "longitude": 35.0938
+    }
+  ],
+  "PT": [
+    {
+      "city": "Lisbon",
+      "latitude": 38.71666666666667,
+      "longitude": -9.133333,
+      "region": ""
+    },
+    {
+      "city": "Porto",
+      "region": "Porto",
+      "latitude": 41.1485,
+      "longitude": -8.61097
+    },
+    {
+      "city": "Braga",
+      "region": "Braga",
+      "latitude": 41.5514,
+      "longitude": -8.42311
+    },
+    {
+      "city": "Amadora",
+      "region": "Lisbon",
+      "latitude": 38.75382,
+      "longitude": -9.23083
+    },
+    {
+      "city": "Coimbra",
+      "region": "Coimbra",
+      "latitude": 40.20686,
+      "longitude": -8.41996
+    },
+    {
+      "city": "Leiria",
+      "region": "Leiria",
+      "latitude": 39.74362,
+      "longitude": -8.80705
+    }
+  ],
+  "PW": [
+    {
+      "city": "Melekeok",
+      "latitude": 7.483333333333333,
+      "longitude": 134.633333,
+      "region": ""
+    },
+    {
+      "city": "Ngerulmud",
+      "region": "Melekeok",
+      "latitude": 7.50077,
+      "longitude": 134.6238
+    }
+  ],
+  "PY": [
+    {
+      "city": "Asuncion",
+      "latitude": -25.266666666666666,
+      "longitude": -57.666667,
+      "region": ""
+    },
+    {
+      "city": "Asunción",
+      "region": "Asuncion",
+      "latitude": -25.28646,
+      "longitude": -57.647
+    },
+    {
+      "city": "Ciudad del Este",
+      "region": "Alto Paraná Department",
+      "latitude": -25.5036,
+      "longitude": -54.65067
+    },
+    {
+      "city": "San Lorenzo",
+      "region": "Central Department",
+      "latitude": -25.33968,
+      "longitude": -57.50879
+    },
+    {
+      "city": "Capiatá",
+      "region": "Central Department",
+      "latitude": -25.3552,
+      "longitude": -57.44545
+    },
+    {
+      "city": "Lambaré",
+      "region": "Central Department",
+      "latitude": -25.34682,
+      "longitude": -57.60647
+    }
+  ],
+  "QA": [
+    {
+      "city": "Doha",
+      "latitude": 25.283333333333335,
+      "longitude": 51.533333,
+      "region": ""
+    },
+    {
+      "city": "Ar Rayyān",
+      "region": "Baladiyat ar Rayyan",
+      "latitude": 25.29194,
+      "longitude": 51.42444
+    },
+    {
+      "city": "Lusail",
+      "region": "Al Daayen",
+      "latitude": 25.4175,
+      "longitude": 51.5075
+    },
+    {
+      "city": "Al Maţār al ‘Atīq",
+      "region": "Baladiyat ad Dawhah",
+      "latitude": 25.25138,
+      "longitude": 51.55569
+    },
+    {
+      "city": "Al Manşūrah",
+      "region": "Baladiyat ad Dawhah",
+      "latitude": 25.26807,
+      "longitude": 51.53219
+    },
+    {
+      "city": "Az̧ Z̧a‘āyin",
+      "region": "Al Daayen",
+      "latitude": 25.57744,
+      "longitude": 51.48306
+    }
+  ],
+  "RE": [
+    {
+      "city": "Saint-Denis",
+      "latitude": -21.15,
+      "longitude": 55.5,
+      "region": ""
+    },
+    {
+      "city": "Saint-Paul",
+      "region": "Reunion",
+      "latitude": -21.00961,
+      "longitude": 55.27134
+    },
+    {
+      "city": "Saint-Pierre",
+      "region": "Reunion",
+      "latitude": -21.3393,
+      "longitude": 55.47811
+    },
+    {
+      "city": "Le Tampon",
+      "region": "Reunion",
+      "latitude": -21.2766,
+      "longitude": 55.51766
+    },
+    {
+      "city": "Saint-André",
+      "region": "Reunion",
+      "latitude": -20.96333,
+      "longitude": 55.65031
+    },
+    {
+      "city": "Saint-Louis",
+      "region": "Reunion",
+      "latitude": -21.28585,
+      "longitude": 55.41124
+    }
+  ],
+  "RO": [
+    {
+      "city": "Bucharest",
+      "latitude": 44.43333333333333,
+      "longitude": 26.1,
+      "region": ""
+    },
+    {
+      "city": "Sector 3",
+      "region": "Bucharest",
+      "latitude": 44.4234,
+      "longitude": 26.16874
+    },
+    {
+      "city": "Iaşi",
+      "region": "Iași County",
+      "latitude": 47.16667,
+      "longitude": 27.6
+    },
+    {
+      "city": "Sector 6",
+      "region": "Bucharest",
+      "latitude": 44.43579,
+      "longitude": 26.01649
+    },
+    {
+      "city": "Constanţa",
+      "region": "Constanța County",
+      "latitude": 44.18073,
+      "longitude": 28.63432
+    },
+    {
+      "city": "Sector 2",
+      "region": "Bucharest",
+      "latitude": 44.4528,
+      "longitude": 26.13321
+    }
+  ],
+  "RS": [
+    {
+      "city": "Belgrade",
+      "latitude": 44.833333333333336,
+      "longitude": 20.5,
+      "region": ""
+    },
+    {
+      "city": "Niš",
+      "region": "Central Serbia",
+      "latitude": 43.32472,
+      "longitude": 21.90333
+    },
+    {
+      "city": "Novi Sad",
+      "region": "Vojvodina",
+      "latitude": 45.25167,
+      "longitude": 19.83694
+    },
+    {
+      "city": "Novi Beograd",
+      "region": "Central Serbia",
+      "latitude": 44.80556,
+      "longitude": 20.42417
+    },
+    {
+      "city": "Zemun",
+      "region": "Central Serbia",
+      "latitude": 44.8458,
+      "longitude": 20.40116
+    },
+    {
+      "city": "Kragujevac",
+      "region": "Central Serbia",
+      "latitude": 44.01667,
+      "longitude": 20.91667
+    }
+  ],
+  "RU": [
+    {
+      "city": "Moscow",
+      "latitude": 55.75,
+      "longitude": 37.6,
+      "region": ""
+    },
+    {
+      "city": "Saint Petersburg",
+      "region": "St. Petersburg",
+      "latitude": 59.93863,
+      "longitude": 30.31413
+    },
+    {
+      "city": "Novosibirsk",
+      "region": "Novosibirsk Oblast",
+      "latitude": 55.02259,
+      "longitude": 82.93175
+    },
+    {
+      "city": "Yekaterinburg",
+      "region": "Sverdlovsk Oblast",
+      "latitude": 56.85733,
+      "longitude": 60.61529
+    },
+    {
+      "city": "Nizhniy Novgorod",
+      "region": "Nizhny Novgorod Oblast",
+      "latitude": 56.32867,
+      "longitude": 44.00205
+    },
+    {
+      "city": "Kazan",
+      "region": "Tatarstan Republic",
+      "latitude": 55.78874,
+      "longitude": 49.12214
+    }
+  ],
+  "RW": [
+    {
+      "city": "Kigali",
+      "latitude": -1.95,
+      "longitude": 30.05,
+      "region": ""
+    },
+    {
+      "city": "Gisenyi",
+      "region": "Western Province",
+      "latitude": -1.70278,
+      "longitude": 29.25639
+    },
+    {
+      "city": "Musanze",
+      "region": "Northern Province",
+      "latitude": -1.49984,
+      "longitude": 29.63497
+    },
+    {
+      "city": "Nyagatare",
+      "region": "Eastern Province",
+      "latitude": -1.2952,
+      "longitude": 30.3226
+    },
+    {
+      "city": "Gitarama",
+      "region": "Southern Province",
+      "latitude": -2.07444,
+      "longitude": 29.75667
+    },
+    {
+      "city": "Muhanga",
+      "region": "Southern Province",
+      "latitude": -2.02269,
+      "longitude": 29.70691
+    }
+  ],
+  "SA": [
+    {
+      "city": "Riyadh",
+      "latitude": 24.65,
+      "longitude": 46.7,
+      "region": "Riyadh Province"
+    },
+    {
+      "city": "Jeddah",
+      "region": "Mecca Region",
+      "latitude": 21.49012,
+      "longitude": 39.18624
+    },
+    {
+      "city": "Makkah",
+      "region": "Mecca Region",
+      "latitude": 21.42664,
+      "longitude": 39.82563
+    },
+    {
+      "city": "Madinah",
+      "region": "Medina Region",
+      "latitude": 24.46861,
+      "longitude": 39.61417
+    },
+    {
+      "city": "Dammam",
+      "region": "Eastern Province",
+      "latitude": 26.43442,
+      "longitude": 50.10326
+    },
+    {
+      "city": "Sulţānah",
+      "region": "Medina Region",
+      "latitude": 24.49258,
+      "longitude": 39.58572
+    }
+  ],
+  "SB": [
+    {
+      "city": "Honiara",
+      "latitude": -9.433333333333334,
+      "longitude": 159.95,
+      "region": ""
+    },
+    {
+      "city": "Panatina",
+      "region": "Honiara",
+      "latitude": -9.43215,
+      "longitude": 160.00607
+    },
+    {
+      "city": "Nggosi",
+      "region": "Guadalcanal Province",
+      "latitude": -9.43056,
+      "longitude": 159.92103
+    },
+    {
+      "city": "Tandai",
+      "region": "Guadalcanal Province",
+      "latitude": -9.44666,
+      "longitude": 159.94549
+    },
+    {
+      "city": "Kola'a",
+      "region": "Honiara",
+      "latitude": -9.44112,
+      "longitude": 159.97002
+    },
+    {
+      "city": "Vura",
+      "region": "Honiara",
+      "latitude": -9.44203,
+      "longitude": 159.98877
+    }
+  ],
+  "SC": [
+    {
+      "city": "Victoria",
+      "latitude": -4.616666666666667,
+      "longitude": 55.45,
+      "region": ""
+    }
+  ],
+  "SD": [
+    {
+      "city": "Khartoum",
+      "latitude": 15.6,
+      "longitude": 32.533333,
+      "region": ""
+    },
+    {
+      "city": "Omdurman",
+      "region": "Khartoum",
+      "latitude": 15.64453,
+      "longitude": 32.47773
+    },
+    {
+      "city": "Khartoum North",
+      "region": "Khartoum",
+      "latitude": 15.64925,
+      "longitude": 32.53458
+    },
+    {
+      "city": "Nyala",
+      "region": "Southern Darfur",
+      "latitude": 12.04888,
+      "longitude": 24.88069
+    },
+    {
+      "city": "Port Sudan",
+      "region": "Red Sea",
+      "latitude": 19.61745,
+      "longitude": 37.21644
+    },
+    {
+      "city": "Kassala",
+      "region": "Kassala",
+      "latitude": 15.45099,
+      "longitude": 36.39998
+    }
+  ],
+  "SE": [
+    {
+      "city": "Stockholm",
+      "latitude": 59.333333333333336,
+      "longitude": 18.05,
+      "region": ""
+    },
+    {
+      "city": "Gothenburg",
+      "region": "Västra Götaland",
+      "latitude": 57.70716,
+      "longitude": 11.96679
+    },
+    {
+      "city": "Malmö",
+      "region": "Skåne",
+      "latitude": 55.60587,
+      "longitude": 13.00073
+    },
+    {
+      "city": "Uppsala",
+      "region": "Uppsala",
+      "latitude": 59.85882,
+      "longitude": 17.63889
+    },
+    {
+      "city": "Linköping",
+      "region": "Östergötland",
+      "latitude": 58.41086,
+      "longitude": 15.62157
+    },
+    {
+      "city": "Örebro",
+      "region": "Örebro",
+      "latitude": 59.27412,
+      "longitude": 15.2066
+    }
+  ],
+  "SG": [
+    {
+      "city": "Singapore",
+      "latitude": 1.2833333333333332,
+      "longitude": 103.85,
+      "region": "Central Region"
+    },
+    {
+      "city": "Ulu Bedok",
+      "region": "",
+      "latitude": 1.33333,
+      "longitude": 103.93333
+    },
+    {
+      "city": "Bedok New Town",
+      "region": "",
+      "latitude": 1.32639,
+      "longitude": 103.94167
+    },
+    {
+      "city": "Sengkang New Town",
+      "region": "",
+      "latitude": 1.39167,
+      "longitude": 103.89444
+    },
+    {
+      "city": "Tampines Estate",
+      "region": "",
+      "latitude": 1.35806,
+      "longitude": 103.94028
+    },
+    {
+      "city": "Jurong Town",
+      "region": "",
+      "latitude": 1.33417,
+      "longitude": 103.72278
+    }
+  ],
+  "SH": [
+    {
+      "city": "Jamestown",
+      "latitude": -15.933333333333334,
+      "longitude": -5.716667,
+      "region": ""
+    }
+  ],
+  "SI": [
+    {
+      "city": "Ljubljana",
+      "latitude": 46.05,
+      "longitude": 14.516667,
+      "region": ""
+    },
+    {
+      "city": "Maribor",
+      "region": "Urban Municipality of Maribor",
+      "latitude": 46.55583,
+      "longitude": 15.64593
+    },
+    {
+      "city": "Celje",
+      "region": "Urban Municipality of Celje",
+      "latitude": 46.23092,
+      "longitude": 15.26044
+    },
+    {
+      "city": "Kranj",
+      "region": "Urban Municipality of Kranj",
+      "latitude": 46.23887,
+      "longitude": 14.35561
+    },
+    {
+      "city": "Koper",
+      "region": "Urban Municipality of Koper",
+      "latitude": 45.5482,
+      "longitude": 13.72963
+    },
+    {
+      "city": "Novo Mesto",
+      "region": "Urban Municipality of Novo Mesto",
+      "latitude": 45.80397,
+      "longitude": 15.16886
+    }
+  ],
+  "SJ": [
+    {
+      "city": "Longyearbyen",
+      "latitude": 78.21666666666667,
+      "longitude": 15.633333,
+      "region": ""
+    }
+  ],
+  "SK": [
+    {
+      "city": "Bratislava",
+      "latitude": 48.15,
+      "longitude": 17.116667,
+      "region": ""
+    },
+    {
+      "city": "Košice",
+      "region": "Košice Region",
+      "latitude": 48.71441,
+      "longitude": 21.25802
+    },
+    {
+      "city": "Petržalka",
+      "region": "Bratislava Region",
+      "latitude": 48.12331,
+      "longitude": 17.12866
+    },
+    {
+      "city": "Nitra",
+      "region": "Nitra Region",
+      "latitude": 48.30763,
+      "longitude": 18.08453
+    },
+    {
+      "city": "Prešov",
+      "region": "Prešov Region",
+      "latitude": 48.99923,
+      "longitude": 21.2355
+    },
+    {
+      "city": "Žilina",
+      "region": "Žilina Region",
+      "latitude": 49.22315,
+      "longitude": 18.73941
+    }
+  ],
+  "SL": [
+    {
+      "city": "Freetown",
+      "latitude": 8.483333333333333,
+      "longitude": -13.233333,
+      "region": ""
+    },
+    {
+      "city": "Kenema",
+      "region": "Eastern Province",
+      "latitude": 7.87687,
+      "longitude": -11.19025
+    },
+    {
+      "city": "Bo",
+      "region": "Southern Province",
+      "latitude": 7.96472,
+      "longitude": -11.73833
+    },
+    {
+      "city": "Koidu",
+      "region": "Eastern Province",
+      "latitude": 8.64387,
+      "longitude": -10.9714
+    },
+    {
+      "city": "Makeni",
+      "region": "Northern Province",
+      "latitude": 8.88605,
+      "longitude": -12.04417
+    },
+    {
+      "city": "Waterloo",
+      "region": "Western Area",
+      "latitude": 8.3389,
+      "longitude": -13.07091
+    }
+  ],
+  "SM": [
+    {
+      "city": "San Marino",
+      "latitude": 43.93333333333333,
+      "longitude": 12.416667,
+      "region": ""
+    }
+  ],
+  "SN": [
+    {
+      "city": "Dakar",
+      "latitude": 14.733333333333333,
+      "longitude": -17.633333,
+      "region": ""
+    },
+    {
+      "city": "Pikine",
+      "region": "Dakar",
+      "latitude": 14.76457,
+      "longitude": -17.39071
+    },
+    {
+      "city": "Touba",
+      "region": "Diourbel Region",
+      "latitude": 14.86229,
+      "longitude": -15.87532
+    },
+    {
+      "city": "Guédiawaye",
+      "region": "Dakar",
+      "latitude": 14.77446,
+      "longitude": -17.40212
+    },
+    {
+      "city": "Thiès",
+      "region": "Thies",
+      "latitude": 14.78944,
+      "longitude": -16.92602
+    },
+    {
+      "city": "Kaolack",
+      "region": "Kaolack",
+      "latitude": 14.15197,
+      "longitude": -16.07259
+    }
+  ],
+  "SO": [
+    {
+      "city": "Mogadishu",
+      "latitude": 2.066666666666667,
+      "longitude": 45.333333,
+      "region": ""
+    },
+    {
+      "city": "Borama",
+      "region": "Awdal",
+      "latitude": 9.93611,
+      "longitude": 43.18278
+    },
+    {
+      "city": "Hargeysa",
+      "region": "Woqooyi Galbeed",
+      "latitude": 9.56,
+      "longitude": 44.065
+    },
+    {
+      "city": "Berbera",
+      "region": "Woqooyi Galbeed",
+      "latitude": 10.43959,
+      "longitude": 45.01432
+    },
+    {
+      "city": "Kismayo",
+      "region": "Lower Juba",
+      "latitude": -0.35817,
+      "longitude": 42.54536
+    },
+    {
+      "city": "Marka",
+      "region": "Lower Shabeelle",
+      "latitude": 1.71594,
+      "longitude": 44.77166
+    }
+  ],
+  "SR": [
+    {
+      "city": "Paramaribo",
+      "latitude": 5.833333333333333,
+      "longitude": -55.166667,
+      "region": ""
+    },
+    {
+      "city": "Blauwgrond",
+      "region": "Paramaribo District",
+      "latitude": 5.84342,
+      "longitude": -55.11929
+    },
+    {
+      "city": "Latour",
+      "region": "Paramaribo District",
+      "latitude": 5.79668,
+      "longitude": -55.20858
+    },
+    {
+      "city": "Pontbuiten",
+      "region": "Wanica District",
+      "latitude": 5.78808,
+      "longitude": -55.20895
+    },
+    {
+      "city": "Rainville",
+      "region": "Paramaribo District",
+      "latitude": 5.83436,
+      "longitude": -55.13769
+    },
+    {
+      "city": "Flora",
+      "region": "Paramaribo District",
+      "latitude": 5.8,
+      "longitude": -55.2
+    }
+  ],
+  "SS": [
+    {
+      "city": "Juba",
+      "latitude": 4.85,
+      "longitude": 31.616667,
+      "region": ""
+    },
+    {
+      "city": "Winejok",
+      "region": "Northern Bahr al Ghazal",
+      "latitude": 9.01222,
+      "longitude": 27.57081
+    },
+    {
+      "city": "Yei",
+      "region": "Central Equatoria",
+      "latitude": 4.09444,
+      "longitude": 30.67639
+    },
+    {
+      "city": "Malakal",
+      "region": "Upper Nile",
+      "latitude": 9.53342,
+      "longitude": 31.66049
+    },
+    {
+      "city": "Wau",
+      "region": "Western Bahr al Ghazal",
+      "latitude": 7.70111,
+      "longitude": 27.98972
+    },
+    {
+      "city": "Kuacjok",
+      "region": "Warrap",
+      "latitude": 8.30278,
+      "longitude": 27.98
+    }
+  ],
+  "ST": [
+    {
+      "city": "Sao Tome",
+      "latitude": 0.3333333333333333,
+      "longitude": 6.733333,
+      "region": ""
+    },
+    {
+      "city": "São Tomé",
+      "region": "São Tomé Island",
+      "latitude": 0.33756,
+      "longitude": 6.7299
+    }
+  ],
+  "SV": [
+    {
+      "city": "San Salvador",
+      "latitude": 13.7,
+      "longitude": -89.2,
+      "region": ""
+    },
+    {
+      "city": "Soyapango",
+      "region": "San Salvador Department",
+      "latitude": 13.71024,
+      "longitude": -89.13989
+    },
+    {
+      "city": "San Miguel",
+      "region": "San Miguel Department",
+      "latitude": 13.48261,
+      "longitude": -88.18211
+    },
+    {
+      "city": "Santa Ana",
+      "region": "Santa Ana Department",
+      "latitude": 13.98827,
+      "longitude": -89.55685
+    },
+    {
+      "city": "Mejicanos",
+      "region": "San Salvador Department",
+      "latitude": 13.72397,
+      "longitude": -89.188
+    },
+    {
+      "city": "Santa Tecla",
+      "region": "La Libertad Department",
+      "latitude": 13.67741,
+      "longitude": -89.28335
+    }
+  ],
+  "SX": [
+    {
+      "city": "Philipsburg",
+      "latitude": 18.016666666666666,
+      "longitude": -63.033333,
+      "region": ""
+    }
+  ],
+  "SY": [
+    {
+      "city": "Damascus",
+      "latitude": 33.5,
+      "longitude": 36.3,
+      "region": ""
+    },
+    {
+      "city": "Aleppo",
+      "region": "Aleppo",
+      "latitude": 36.20124,
+      "longitude": 37.16117
+    },
+    {
+      "city": "Homs",
+      "region": "Homs",
+      "latitude": 34.72405,
+      "longitude": 36.72559
+    },
+    {
+      "city": "Latakia",
+      "region": "Latakia",
+      "latitude": 35.53125,
+      "longitude": 35.79088
+    },
+    {
+      "city": "Ar Raqqah",
+      "region": "Raqqa",
+      "latitude": 35.95283,
+      "longitude": 39.00788
+    },
+    {
+      "city": "Ḩamāh",
+      "region": "Hama",
+      "latitude": 35.13179,
+      "longitude": 36.75783
+    }
+  ],
+  "SZ": [
+    {
+      "city": "Mbabane",
+      "latitude": -26.316666666666666,
+      "longitude": 31.133333,
+      "region": ""
+    },
+    {
+      "city": "Manzini",
+      "region": "Manzini Region",
+      "latitude": -26.49884,
+      "longitude": 31.38004
+    },
+    {
+      "city": "Lobamba",
+      "region": "Hhohho Region",
+      "latitude": -26.46667,
+      "longitude": 31.2
+    }
+  ],
+  "TC": [
+    {
+      "city": "Grand Turk",
+      "latitude": 21.466666666666665,
+      "longitude": -71.133333,
+      "region": ""
+    },
+    {
+      "city": "Providenciales",
+      "region": "",
+      "latitude": 21.78254,
+      "longitude": -72.25206
+    },
+    {
+      "city": "Cockburn Town",
+      "region": "",
+      "latitude": 21.46122,
+      "longitude": -71.14188
+    }
+  ],
+  "TD": [
+    {
+      "city": "N'Djamena",
+      "latitude": 12.1,
+      "longitude": 15.033333,
+      "region": ""
+    },
+    {
+      "city": "Moundou",
+      "region": "Logone Occidental",
+      "latitude": 8.57437,
+      "longitude": 16.07722
+    },
+    {
+      "city": "Abéché",
+      "region": "Ouadaï",
+      "latitude": 13.82916,
+      "longitude": 20.8324
+    },
+    {
+      "city": "Sarh",
+      "region": "Moyen-Chari",
+      "latitude": 9.14555,
+      "longitude": 18.38331
+    },
+    {
+      "city": "Kelo",
+      "region": "Tandjilé",
+      "latitude": 9.30859,
+      "longitude": 15.80658
+    },
+    {
+      "city": "Am Timan",
+      "region": "Salamat",
+      "latitude": 11.0433,
+      "longitude": 20.28342
+    }
+  ],
+  "TG": [
+    {
+      "city": "Lome",
+      "latitude": 6.116666666666666,
+      "longitude": 1.216667,
+      "region": ""
+    },
+    {
+      "city": "Lomé",
+      "region": "Maritime",
+      "latitude": 6.12874,
+      "longitude": 1.22154
+    },
+    {
+      "city": "Sokodé",
+      "region": "Centrale",
+      "latitude": 8.98333,
+      "longitude": 1.13333
+    },
+    {
+      "city": "Kara",
+      "region": "Kara",
+      "latitude": 9.55111,
+      "longitude": 1.18611
+    },
+    {
+      "city": "Atakpamé",
+      "region": "Plateaux",
+      "latitude": 7.53333,
+      "longitude": 1.13333
+    },
+    {
+      "city": "Kpalimé",
+      "region": "Plateaux",
+      "latitude": 6.9,
+      "longitude": 0.63333
+    }
+  ],
+  "TH": [
+    {
+      "city": "Bangkok",
+      "latitude": 13.75,
+      "longitude": 100.516667,
+      "region": ""
+    },
+    {
+      "city": "Samut Prakan",
+      "region": "Samut Prakan",
+      "latitude": 13.5976,
+      "longitude": 100.5972
+    },
+    {
+      "city": "Mueang Nonthaburi",
+      "region": "Nonthaburi",
+      "latitude": 13.86075,
+      "longitude": 100.51477
+    },
+    {
+      "city": "Chon Buri",
+      "region": "Chon Buri",
+      "latitude": 13.3622,
+      "longitude": 100.98345
+    },
+    {
+      "city": "Phra Pradaeng",
+      "region": "Samut Prakan",
+      "latitude": 13.65855,
+      "longitude": 100.53362
+    },
+    {
+      "city": "Bang Khae",
+      "region": "Bangkok",
+      "latitude": 13.69301,
+      "longitude": 100.40755
+    }
+  ],
+  "TJ": [
+    {
+      "city": "Dushanbe",
+      "latitude": 38.55,
+      "longitude": 68.766667,
+      "region": ""
+    },
+    {
+      "city": "Isfara",
+      "region": "Sughd",
+      "latitude": 40.12649,
+      "longitude": 70.62526
+    },
+    {
+      "city": "Istaravshan",
+      "region": "Sughd",
+      "latitude": 39.9142,
+      "longitude": 69.00328
+    },
+    {
+      "city": "Kŭlob",
+      "region": "Khatlon Province",
+      "latitude": 37.91459,
+      "longitude": 69.78454
+    },
+    {
+      "city": "Konibodom",
+      "region": "Sughd",
+      "latitude": 40.29414,
+      "longitude": 70.43122
+    },
+    {
+      "city": "Khujand",
+      "region": "Sughd",
+      "latitude": 40.28256,
+      "longitude": 69.62216
+    }
+  ],
+  "TK": [
+    {
+      "city": "Atafu",
+      "latitude": -9.166667,
+      "longitude": -171.833333,
+      "region": ""
+    }
+  ],
+  "TL": [
+    {
+      "city": "Dili",
+      "latitude": -8.583333333333334,
+      "longitude": 125.6,
+      "region": ""
+    },
+    {
+      "city": "Maliana",
+      "region": "Bobonaro",
+      "latitude": -8.99167,
+      "longitude": 125.21972
+    },
+    {
+      "city": "Suai",
+      "region": "Cova Lima",
+      "latitude": -9.31286,
+      "longitude": 125.25648
+    },
+    {
+      "city": "Likisá",
+      "region": "Liquiçá",
+      "latitude": -8.5875,
+      "longitude": 125.34194
+    },
+    {
+      "city": "Aileu",
+      "region": "Aileu",
+      "latitude": -8.72806,
+      "longitude": 125.56639
+    },
+    {
+      "city": "Lospalos",
+      "region": "Lautém",
+      "latitude": -8.52167,
+      "longitude": 126.99833
+    }
+  ],
+  "TM": [
+    {
+      "city": "Ashgabat",
+      "latitude": 37.95,
+      "longitude": 58.383333,
+      "region": ""
+    },
+    {
+      "city": "Türkmenabat",
+      "region": "Lebap",
+      "latitude": 39.07328,
+      "longitude": 63.57861
+    },
+    {
+      "city": "Daşoguz",
+      "region": "Dasoguz",
+      "latitude": 41.83625,
+      "longitude": 59.96661
+    },
+    {
+      "city": "Mary",
+      "region": "Mary",
+      "latitude": 37.59378,
+      "longitude": 61.83031
+    },
+    {
+      "city": "Türkmenbaşy",
+      "region": "Balkan",
+      "latitude": 40.02216,
+      "longitude": 52.95517
+    },
+    {
+      "city": "Balkanabat",
+      "region": "Balkan",
+      "latitude": 39.51075,
+      "longitude": 54.36713
+    }
+  ],
+  "TN": [
+    {
+      "city": "Tunis",
+      "latitude": 36.8,
+      "longitude": 10.183333,
+      "region": ""
+    },
+    {
+      "city": "Sfax",
+      "region": "Sfax Governorate",
+      "latitude": 34.74056,
+      "longitude": 10.76028
+    },
+    {
+      "city": "Sousse",
+      "region": "Sousse Governorate",
+      "latitude": 35.82539,
+      "longitude": 10.63699
+    },
+    {
+      "city": "Sukrah",
+      "region": "Ariana Governorate",
+      "latitude": 36.87744,
+      "longitude": 10.2468
+    },
+    {
+      "city": "Kairouan",
+      "region": "Kairouan",
+      "latitude": 35.6781,
+      "longitude": 10.09633
+    },
+    {
+      "city": "Bizerte",
+      "region": "Bizerte Governorate",
+      "latitude": 37.27442,
+      "longitude": 9.87391
+    }
+  ],
+  "TO": [
+    {
+      "city": "Nuku'alofa",
+      "latitude": -21.133333333333333,
+      "longitude": -175.2,
+      "region": ""
+    },
+    {
+      "city": "Nuku‘alofa",
+      "region": "Tongatapu",
+      "latitude": -21.13683,
+      "longitude": -175.20114
+    }
+  ],
+  "TR": [
+    {
+      "city": "Ankara",
+      "latitude": 39.93333333333333,
+      "longitude": 32.866667,
+      "region": ""
+    },
+    {
+      "city": "Istanbul",
+      "region": "Istanbul",
+      "latitude": 41.01384,
+      "longitude": 28.94966
+    },
+    {
+      "city": "Bursa",
+      "region": "Bursa Province",
+      "latitude": 40.19559,
+      "longitude": 29.06013
+    },
+    {
+      "city": "İzmir",
+      "region": "İzmir Province",
+      "latitude": 38.41273,
+      "longitude": 27.13838
+    },
+    {
+      "city": "Gaziantep",
+      "region": "Gaziantep",
+      "latitude": 37.05944,
+      "longitude": 37.3825
+    },
+    {
+      "city": "Diyarbakır",
+      "region": "Diyarbakır Province",
+      "latitude": 37.91363,
+      "longitude": 40.21721
+    }
+  ],
+  "TT": [
+    {
+      "city": "Port of Spain",
+      "latitude": 10.65,
+      "longitude": -61.516667,
+      "region": ""
+    },
+    {
+      "city": "Chaguanas",
+      "region": "Chaguanas",
+      "latitude": 10.51667,
+      "longitude": -61.41667
+    },
+    {
+      "city": "Mon Repos",
+      "region": "San Fernando",
+      "latitude": 10.27979,
+      "longitude": -61.4459
+    },
+    {
+      "city": "San Fernando",
+      "region": "San Fernando",
+      "latitude": 10.27969,
+      "longitude": -61.46835
+    },
+    {
+      "city": "Rio Claro",
+      "region": "Mayaro",
+      "latitude": 10.30594,
+      "longitude": -61.17556
+    },
+    {
+      "city": "Arima",
+      "region": "Borough of Arima",
+      "latitude": 10.63737,
+      "longitude": -61.28228
+    }
+  ],
+  "TV": [
+    {
+      "city": "Funafuti",
+      "latitude": -8.516666666666667,
+      "longitude": 179.216667,
+      "region": ""
+    }
+  ],
+  "TW": [
+    {
+      "city": "Taipei",
+      "latitude": 25.033333333333335,
+      "longitude": 121.516667,
+      "region": ""
+    },
+    {
+      "city": "New Taipei City",
+      "region": "Taipei",
+      "latitude": 25.06199,
+      "longitude": 121.45703
+    },
+    {
+      "city": "Taichung",
+      "region": "Taiwan",
+      "latitude": 24.1469,
+      "longitude": 120.6839
+    },
+    {
+      "city": "Kaohsiung",
+      "region": "Takao",
+      "latitude": 22.61626,
+      "longitude": 120.31333
+    },
+    {
+      "city": "Tainan",
+      "region": "Taiwan",
+      "latitude": 22.99259,
+      "longitude": 120.20507
+    },
+    {
+      "city": "Banqiao",
+      "region": "Taipei",
+      "latitude": 25.01427,
+      "longitude": 121.46719
+    }
+  ],
+  "TZ": [
+    {
+      "city": "Dar es Salaam",
+      "latitude": -6.8,
+      "longitude": 39.283333,
+      "region": ""
+    },
+    {
+      "city": "Mwanza",
+      "region": "Mwanza",
+      "latitude": -2.51667,
+      "longitude": 32.9
+    },
+    {
+      "city": "Dodoma",
+      "region": "Dodoma",
+      "latitude": -6.17221,
+      "longitude": 35.73947
+    },
+    {
+      "city": "Zanzibar",
+      "region": "Zanzibar Urban/West",
+      "latitude": -6.16394,
+      "longitude": 39.19793
+    },
+    {
+      "city": "Arusha",
+      "region": "Arusha",
+      "latitude": -3.36667,
+      "longitude": 36.68333
+    },
+    {
+      "city": "Mbeya",
+      "region": "Mbeya",
+      "latitude": -8.9,
+      "longitude": 33.45
+    }
+  ],
+  "UA": [
+    {
+      "city": "Kyiv",
+      "latitude": 50.43333333333333,
+      "longitude": 30.516667,
+      "region": ""
+    },
+    {
+      "city": "Kharkiv",
+      "region": "Kharkiv",
+      "latitude": 49.98177,
+      "longitude": 36.25475
+    },
+    {
+      "city": "Odesa",
+      "region": "Odesa",
+      "latitude": 46.48572,
+      "longitude": 30.74383
+    },
+    {
+      "city": "Dnipro",
+      "region": "Dnipropetrovsk",
+      "latitude": 48.46664,
+      "longitude": 35.04066
+    },
+    {
+      "city": "Donetsk",
+      "region": "Donetsk",
+      "latitude": 48.023,
+      "longitude": 37.80224
+    },
+    {
+      "city": "Lviv",
+      "region": "Lviv",
+      "latitude": 49.83826,
+      "longitude": 24.02324
+    }
+  ],
+  "UG": [
+    {
+      "city": "Kampala",
+      "latitude": 0.31666666666666665,
+      "longitude": 32.55,
+      "region": ""
+    },
+    {
+      "city": "Nansana",
+      "region": "Central Region",
+      "latitude": 0.36389,
+      "longitude": 32.52861
+    },
+    {
+      "city": "Kira",
+      "region": "Central Region",
+      "latitude": 0.4,
+      "longitude": 32.63333
+    },
+    {
+      "city": "Bunamwaya",
+      "region": "Central Region",
+      "latitude": 0.25344,
+      "longitude": 32.55723
+    },
+    {
+      "city": "Kyengera",
+      "region": "Central Region",
+      "latitude": 0.29517,
+      "longitude": 32.50159
+    },
+    {
+      "city": "Kasangati",
+      "region": "Central Region",
+      "latitude": 0.43803,
+      "longitude": 32.60246
+    }
+  ],
+  "UM": [
+    {
+      "city": "Midway Atoll",
+      "latitude": 28.2,
+      "longitude": -177.35,
+      "region": ""
+    }
+  ],
+  "US": [
+    {
+      "city": "Washington, D.C.",
+      "latitude": 38.883333,
+      "longitude": -77,
+      "region": "District of Columbia"
+    },
+    {
+      "city": "New York City",
+      "region": "New York",
+      "latitude": 40.71427,
+      "longitude": -74.00597
+    },
+    {
+      "city": "Los Angeles",
+      "region": "California",
+      "latitude": 34.05223,
+      "longitude": -118.24368
+    },
+    {
+      "city": "Brooklyn",
+      "region": "New York",
+      "latitude": 40.6501,
+      "longitude": -73.94958
+    },
+    {
+      "city": "Chicago",
+      "region": "Illinois",
+      "latitude": 41.85003,
+      "longitude": -87.65005
+    },
+    {
+      "city": "Queens",
+      "region": "New York",
+      "latitude": 40.68149,
+      "longitude": -73.83652
+    }
+  ],
+  "UY": [
+    {
+      "city": "Montevideo",
+      "latitude": -34.85,
+      "longitude": -56.166667,
+      "region": ""
+    },
+    {
+      "city": "Salto",
+      "region": "Salto Department",
+      "latitude": -31.38811,
+      "longitude": -57.95983
+    },
+    {
+      "city": "Maldonado",
+      "region": "Maldonado",
+      "latitude": -34.89791,
+      "longitude": -54.95021
+    },
+    {
+      "city": "Rivera",
+      "region": "Rivera Department",
+      "latitude": -30.90534,
+      "longitude": -55.55076
+    },
+    {
+      "city": "Paysandú",
+      "region": "Paysandú Department",
+      "latitude": -32.3171,
+      "longitude": -58.08072
+    },
+    {
+      "city": "Las Piedras",
+      "region": "Canelones",
+      "latitude": -34.7302,
+      "longitude": -56.21915
+    }
+  ],
+  "UZ": [
+    {
+      "city": "Tashkent",
+      "latitude": 41.31666666666667,
+      "longitude": 69.25,
+      "region": ""
+    },
+    {
+      "city": "Andijon",
+      "region": "Andijan Region",
+      "latitude": 40.78338,
+      "longitude": 72.35067
+    },
+    {
+      "city": "Namangan",
+      "region": "Namangan",
+      "latitude": 40.9983,
+      "longitude": 71.67257
+    },
+    {
+      "city": "Samarkand",
+      "region": "Samarqand Region",
+      "latitude": 39.65456,
+      "longitude": 66.96445
+    },
+    {
+      "city": "Yunusobod",
+      "region": "Tashkent",
+      "latitude": 41.37139,
+      "longitude": 69.27944
+    },
+    {
+      "city": "Nukus",
+      "region": "Karakalpakstan",
+      "latitude": 42.45861,
+      "longitude": 59.60576
+    }
+  ],
+  "VA": [
+    {
+      "city": "Vatican City",
+      "latitude": 41.9,
+      "longitude": 12.45,
+      "region": ""
+    }
+  ],
+  "VC": [
+    {
+      "city": "Kingstown",
+      "latitude": 13.133333333333333,
+      "longitude": -61.216667,
+      "region": ""
+    },
+    {
+      "city": "Calliaqua",
+      "region": "Saint George Parish",
+      "latitude": 13.12867,
+      "longitude": -61.19178
+    }
+  ],
+  "VE": [
+    {
+      "city": "Caracas",
+      "latitude": 10.483333333333333,
+      "longitude": -66.866667,
+      "region": ""
+    },
+    {
+      "city": "Maracaibo",
+      "region": "Zulia",
+      "latitude": 10.64232,
+      "longitude": -71.61089
+    },
+    {
+      "city": "Valencia",
+      "region": "Carabobo",
+      "latitude": 10.16153,
+      "longitude": -68.00044
+    },
+    {
+      "city": "Barquisimeto",
+      "region": "Lara",
+      "latitude": 10.0647,
+      "longitude": -69.35703
+    },
+    {
+      "city": "Ciudad Guayana",
+      "region": "Bolívar",
+      "latitude": 8.35122,
+      "longitude": -62.64102
+    },
+    {
+      "city": "Barcelona",
+      "region": "Anzoátegui",
+      "latitude": 10.1384,
+      "longitude": -64.68769
+    }
+  ],
+  "VG": [
+    {
+      "city": "Road Town",
+      "latitude": 18.416666666666668,
+      "longitude": -64.616667,
+      "region": ""
+    }
+  ],
+  "VI": [
+    {
+      "city": "Charlotte Amalie",
+      "latitude": 18.35,
+      "longitude": -64.933333,
+      "region": ""
+    },
+    {
+      "city": "Saint Croix",
+      "region": "Saint Croix Island",
+      "latitude": 17.72751,
+      "longitude": -64.74698
+    }
+  ],
+  "VN": [
+    {
+      "city": "Hanoi",
+      "latitude": 21.033333333333335,
+      "longitude": 105.85,
+      "region": ""
+    },
+    {
+      "city": "Ho Chi Minh City",
+      "region": "Ho Chi Minh City (HCMC)",
+      "latitude": 10.82302,
+      "longitude": 106.62965
+    },
+    {
+      "city": "Haiphong",
+      "region": "Hai Phong",
+      "latitude": 20.86481,
+      "longitude": 106.68345
+    },
+    {
+      "city": "Cần Thơ",
+      "region": "Can Tho City",
+      "latitude": 10.03711,
+      "longitude": 105.78825
+    },
+    {
+      "city": "Huế",
+      "region": "Thừa Thiên Huế Province",
+      "latitude": 16.4619,
+      "longitude": 107.59546
+    },
+    {
+      "city": "Da Nang",
+      "region": "Da Nang City",
+      "latitude": 16.06778,
+      "longitude": 108.22083
+    }
+  ],
+  "VU": [
+    {
+      "city": "Port-Vila",
+      "latitude": -17.733333333333334,
+      "longitude": 168.316667,
+      "region": ""
+    }
+  ],
+  "WF": [
+    {
+      "city": "Mata-Utu",
+      "latitude": -13.95,
+      "longitude": -171.933333,
+      "region": ""
+    }
+  ],
+  "WS": [
+    {
+      "city": "Apia",
+      "latitude": -13.816666666666666,
+      "longitude": -171.766667,
+      "region": ""
+    }
+  ],
+  "YE": [
+    {
+      "city": "Sanaa",
+      "latitude": 15.35,
+      "longitude": 44.2,
+      "region": ""
+    },
+    {
+      "city": "Aden",
+      "region": "Aden",
+      "latitude": 12.77957,
+      "longitude": 45.03852
+    },
+    {
+      "city": "Taiz",
+      "region": "Ta‘izz",
+      "latitude": 13.57952,
+      "longitude": 44.02091
+    },
+    {
+      "city": "Ibb",
+      "region": "Ibb Governorate",
+      "latitude": 13.96667,
+      "longitude": 44.18333
+    },
+    {
+      "city": "Al Ḩudaydah",
+      "region": "Al Hudaydah",
+      "latitude": 14.79781,
+      "longitude": 42.95452
+    },
+    {
+      "city": "Mukalla",
+      "region": "Muhafazat Hadramaout",
+      "latitude": 14.54248,
+      "longitude": 49.12424
+    }
+  ],
+  "YT": [
+    {
+      "city": "Mamoudzou",
+      "latitude": -12.83333333,
+      "longitude": 45.16666666,
+      "region": ""
+    },
+    {
+      "city": "Koungou",
+      "region": "Koungou",
+      "latitude": -12.73361,
+      "longitude": 45.20417
+    },
+    {
+      "city": "Labattoir",
+      "region": "Dzaoudzi",
+      "latitude": -12.77698,
+      "longitude": 45.28234
+    },
+    {
+      "city": "Kaouéni",
+      "region": "Mamoudzou",
+      "latitude": -12.77121,
+      "longitude": 45.22419
+    },
+    {
+      "city": "Mtsapéré",
+      "region": "Mamoudzou",
+      "latitude": -12.78636,
+      "longitude": 45.21732
+    },
+    {
+      "city": "Dzaoudzi",
+      "region": "Dzaoudzi",
+      "latitude": -12.78339,
+      "longitude": 45.25693
+    }
+  ],
+  "ZA": [
+    {
+      "city": "Pretoria",
+      "latitude": -25.7,
+      "longitude": 28.216667,
+      "region": "Gauteng"
+    },
+    {
+      "city": "Johannesburg",
+      "region": "Gauteng",
+      "latitude": -26.20227,
+      "longitude": 28.04363
+    },
+    {
+      "city": "Cape Town",
+      "region": "Western Cape",
+      "latitude": -33.92584,
+      "longitude": 18.42322
+    },
+    {
+      "city": "Durban",
+      "region": "KwaZulu-Natal",
+      "latitude": -29.8579,
+      "longitude": 31.0292
+    },
+    {
+      "city": "Soweto",
+      "region": "Gauteng",
+      "latitude": -26.26781,
+      "longitude": 27.85849
+    },
+    {
+      "city": "Gqeberha",
+      "region": "Eastern Cape",
+      "latitude": -33.96109,
+      "longitude": 25.61494
+    }
+  ],
+  "ZM": [
+    {
+      "city": "Lusaka",
+      "latitude": -15.416666666666666,
+      "longitude": 28.283333,
+      "region": ""
+    },
+    {
+      "city": "Kitwe",
+      "region": "Copperbelt",
+      "latitude": -12.80243,
+      "longitude": 28.21323
+    },
+    {
+      "city": "Ndola",
+      "region": "Copperbelt",
+      "latitude": -12.95867,
+      "longitude": 28.63659
+    },
+    {
+      "city": "Chipata",
+      "region": "Eastern Province",
+      "latitude": -13.63333,
+      "longitude": 32.65
+    },
+    {
+      "city": "Solwezi",
+      "region": "North-Western",
+      "latitude": -12.1688,
+      "longitude": 26.38938
+    },
+    {
+      "city": "Kabwe",
+      "region": "Central Province",
+      "latitude": -14.4469,
+      "longitude": 28.44644
+    }
+  ],
+  "ZW": [
+    {
+      "city": "Harare",
+      "latitude": -17.816666666666666,
+      "longitude": 31.033333,
+      "region": ""
+    },
+    {
+      "city": "Bulawayo",
+      "region": "Bulawayo",
+      "latitude": -20.15,
+      "longitude": 28.58333
+    },
+    {
+      "city": "Chitungwiza",
+      "region": "Harare",
+      "latitude": -18.01274,
+      "longitude": 31.07555
+    },
+    {
+      "city": "Mutare",
+      "region": "Manicaland",
+      "latitude": -18.9707,
+      "longitude": 32.67086
+    },
+    {
+      "city": "Epworth",
+      "region": "Harare",
+      "latitude": -17.89,
+      "longitude": 31.1475
+    },
+    {
+      "city": "Gweru",
+      "region": "Midlands Province",
+      "latitude": -19.45,
+      "longitude": 29.81667
+    }
+  ]
+}

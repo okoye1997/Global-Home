@@ -1,0 +1,3 @@
+import { notFound } from 'next/navigation';
+import { isLocale } from '@/lib/i18n';
+export default async function AboutPage({params}:{params:Promise<{locale:string}>}){const {locale}=await params;if(!isLocale(locale))notFound();return <main className="section wrap"><h1>About GlobalHome</h1><div className="panel"><p>GlobalHome connects people with verified real property opportunities across countries. Listings are published only after administrative review. Prices are shown in each property&apos;s local currency.</p><p>Buying, renting, leasing and investment enquiries begin with the platform administrator. Property payment details are provided privately where applicable.</p></div></main>}

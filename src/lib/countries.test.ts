@@ -1,0 +1,22 @@
+import { describe, expect, it } from 'vitest';
+import isoCountries from 'country-list';
+import iso3Countries from 'i18n-iso-countries';
+import cldrCurrencies from 'cldr-core/supplemental/currencyData.json';
+import countries from '../data/countries.json';
+import { existsSync } from 'node:fs';
+import { resolve } from 'node:path';
+import { convertUsdReferenceRangeToLocalCurrency, formatPropertyPrice, getCountryByCode, getCurrencyForCountry, searchCountries, validatePropertyCurrency } from './country-identity';
+import { renderToStaticMarkup } from 'react-dom/server';
+import { CountryBadge } from '../components/CountryBadge';
+describe('country registry', () => {
+  it('covers every ISO 3166-1 alpha-2 country code', () => { const codes=new Set(countries.map(country=>country.code));expect(isoCountries.getCodes().filter(code=>!codes.has(code))).toEqual([]); });
+  it('requires explicit review before enabling territories without unambiguous currency settings', () => { expect(countries.find(country=>country.code==='AQ')?.enabled).toBe(false); });
+  it('identifies every enabled country with ISO, currency and a real SVG flag', () => { for(const country of countries.filter(item=>item.enabled)){expect(isoCountries.getCodes()).toContain(country.code);expect(iso3Countries.alpha2ToAlpha3(country.code)).toBe(country.iso3);expect(country.flagEmoji).toBeTruthy();expect(country.currencyName).toBeTruthy();expect(country.currencyCode).toMatch(/^[A-Z]{3}$/);expect(country.currencySymbol).toBeTruthy();expect(existsSync(resolve('public',country.flagAssetUrl.slice(1)))).toBe(true);} });
+  it('uses a currently active CLDR currency for every enabled country',()=>{const today='2026-10-27';const regions=cldrCurrencies.supplemental.currencyData.region as unknown as Record<string,Record<string,{_from?:string;_to?:string;_tender?:string}>[]>;for(const country of countries.filter(item=>item.enabled)){const active=regions[country.code]?.flatMap(entry=>Object.entries(entry)).filter(([,period])=>(!period._from||period._from<=today)&&(!period._to||period._to>today)&&period._tender!=='false').map(([code])=>code)||[];expect(active,`${country.code} currency`).toContain(country.currencyCode);}});
+  it('finds countries by name, ISO2/3, currency name and currency code',()=>{for(const term of ['Nigeria','NG','NGA','Naira','NGN'])expect(searchCountries(term).some(item=>item.code==='NG')).toBe(true);});
+  it('keeps shared currencies as a many-country relationship',()=>{expect(countries.filter(item=>item.currencyCode==='EUR').length).toBeGreaterThan(1);expect(getCurrencyForCountry('DE')).toBe('EUR');expect(getCurrencyForCountry('FR')).toBe('EUR');});
+  it('checks property currency against its country',()=>{expect(validatePropertyCurrency('NG','NGN')).toBe(true);expect(validatePropertyCurrency('NG','USD')).toBe(false);});
+  it('disambiguates dollar currencies and keeps prices independent of language',()=>{expect(formatPropertyPrice(85000000,'USD','en')).toContain('USD');expect(formatPropertyPrice(85000000,'CAD','en')).toContain('CAD');expect(formatPropertyPrice(85000000,'NGN','fr')).toContain('NGN');expect(getCountryByCode('NG')?.currencyCode).toBe('NGN');});
+  it('renders an accessible flag with the country name',()=>{const html=renderToStaticMarkup(CountryBadge({code:'NG'}));expect(html).toContain('Nigeria flag');expect(html).toContain('Nigeria');expect(html).toContain('/flags/ng.svg');});
+  it('converts USD reference bounds into local minor units',()=>{expect(convertUsdReferenceRangeToLocalCurrency('rent',1500,'NGN')).toEqual({minMinor:300000000,maxMinor:3000000000});});
+});

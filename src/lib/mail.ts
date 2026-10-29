@@ -1,0 +1,3 @@
+import nodemailer from 'nodemailer';
+import { mailHtmlFromText, smtpPort } from './mail-content';
+export async function sendEmail(to:string,subject:string,body:string){const {SMTP_HOST,SMTP_PORT,SMTP_USER,SMTP_PASS,EMAIL_FROM}=process.env;if(!SMTP_HOST||!SMTP_PORT||!SMTP_USER||!SMTP_PASS||!EMAIL_FROM)throw new Error('SMTP configuration is incomplete');const port=smtpPort(SMTP_PORT);const transport=nodemailer.createTransport({host:SMTP_HOST,port,secure:port===465,requireTLS:port!==465,auth:{user:SMTP_USER,pass:SMTP_PASS}});await transport.sendMail({from:EMAIL_FROM,to,subject,text:body,html:mailHtmlFromText(body)});}

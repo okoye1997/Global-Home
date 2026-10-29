@@ -1,0 +1,3 @@
+import mongoose from 'mongoose';
+const globalForMongoose = globalThis as typeof globalThis & { mongooseConnection?: Promise<typeof mongoose> };
+export async function connectDb() { const uri=process.env.MONGODB_URI; if(!uri)throw new Error('MONGODB_URI is required'); const dbName=process.env.MONGODB_DB_NAME?.trim(); if(dbName&&!/^[A-Za-z0-9_-]+$/.test(dbName))throw new Error('MONGODB_DB_NAME is invalid'); if(!globalForMongoose.mongooseConnection)globalForMongoose.mongooseConnection=mongoose.connect(uri,dbName?{dbName}:undefined).catch(error=>{globalForMongoose.mongooseConnection=undefined;throw error}); return globalForMongoose.mongooseConnection; }

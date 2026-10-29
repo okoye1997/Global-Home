@@ -1,0 +1,1 @@
+export default function TermsPage() { return <main className="section wrap"><h1>Terms of use</h1><p>GlobalHome is a property discovery and enquiry platform. A listing is not a completed transaction or a binding investment offer. Contact the platform administrator for current availability, due diligence records, and applicable signed terms before acting.</p></main>; }

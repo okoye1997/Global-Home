@@ -1,0 +1,4 @@
+import { notFound } from 'next/navigation';
+import { isLocale } from '@/lib/i18n';
+import { publicAdminContact } from '@/lib/marketplace';
+export default async function ContactPage({params}:{params:Promise<{locale:string}>}){const {locale}=await params;if(!isLocale(locale))notFound();const admin=await publicAdminContact();return <main className="section wrap"><h1>Contact GlobalHome</h1><div className="panel"><h2>{admin.displayName}</h2><p>For a specific property, open its listing and select Contact Admin to Proceed.</p>{admin.supportEmail&&<p><a className="button" href={`mailto:${admin.supportEmail}`}>Email Admin</a></p>}{admin.whatsAppNumber&&<p><a className="button button-secondary" href={`https://wa.me/${admin.whatsAppNumber.replace(/\D/g,'')}`} target="_blank" rel="noopener noreferrer">WhatsApp Admin</a></p>}</div></main>}

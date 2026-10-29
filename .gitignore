@@ -1,0 +1,53 @@
+# Dependencies and generated builds
+node_modules/
+.next/
+next-env.d.ts
+out/
+build/
+dist/
+.vercel/
+
+# Local configuration and private files
+.env
+.env.*
+!.env.example
+.private/
+*.pem
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Tests and caches
+coverage/
+test-results/
+playwright-report/
+.playwright/
+.cache/
+.turbo/
+.eslintcache
+*.tsbuildinfo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+tmp/
+temp/
+tmp-*/
+
+# Local database exports and backups
+*.dump
+*.archive
+*.bson
+*.bson.gz
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
